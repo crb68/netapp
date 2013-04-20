@@ -1,0 +1,259 @@
+.head{
+ position: relative;
+ margin: 0;
+ padding: 0;
+ top: -1.5%;
+  left: -1%;
+  width: 101.5%; 
+  height: 25%;
+  //background-color:#0066FF;
+background-image:url('blue49.jpg');
+  border: 0;
+  color: 'white';
+  overflow:hidden;
+}
+
+.logo{
+position: relative;
+  left: 5%;
+  top: 2%;
+  width: 15%; 
+  height: 95%;
+}
+.htext{
+position: absolute;
+left: 35%;
+top: 20%;
+width: 30%;
+height: 95%;
+color: black;
+font-family: 'Skranji', cursive;
+}
+.lg{
+position: relative;
+left: 33%;
+  top: 17%;
+  width: 33%; 
+  height: 35%;
+border:2px solid;
+//background-color:#0066FF;
+background-image:url('blue49.jpg');
+font-family: 'Skranji', cursive;
+
+}
+.lgcenter{
+position: relative;
+left: 33%;
+  top: 17%;
+  width: 33%; 
+  height: 25%;
+text-align: center; 
+font-family: 'Skranji', cursive;
+}
+
+ul {
+    font-family: Arial, Verdana;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+ul li {
+    display: block;
+    position: relative;
+    float: left;
+}
+li ul {
+    display: none;
+}
+ul li a {
+    display: block;
+    text-decoration: none;
+    color: FFFFFF;
+    border-top: 1px solid #ffffff;
+    padding: 5px 15px 5px 15px;
+    background: #0066FF;
+    margin-left: 1px;
+    white-space: nowrap;
+}
+ul li a:hover {
+background: #3b3b3b;
+}
+li:hover ul {
+    display: block;
+    position: absolute;
+}
+li:hover li {
+    float: none;
+    font-size: 11px;
+}
+li:hover a { background: #3b3b3b; }
+li:hover li a:hover {
+    background: #1e7c9a;
+}
+.bdy{
+position: relative;
+ margin: 0;
+ padding: 0;
+ top: -1.5%;
+  left: -.90%;
+  width: 101.5%; 
+  height: 75%;
+background-image:url('kindajean.png');
+
+}
+
+.bdybig{
+position: relative;
+left: 20%;
+  top: 20%;
+  width: 60%; 
+  height: 50%;
+border:2px solid;
+//background-color:#0066FF;
+background-image:url('blue49.jpg');
+font-family: 'Skranji', cursive;
+
+}
+
+.bdy2{
+position: relative;
+ margin: 0;
+ padding: 0;
+ top: -1.5%;
+  left: -.90%;
+  width: 101.5%; 
+  height: 100%;
+background-image:url('kindajean.png');
+
+}
+.bigtable{
+position: absolute;
+margin: 0;
+padding: 0;
+top: 10%;
+left: 20%;
+width: 80%;
+height: 90%;
+border: 2px;
+/*overflow:scroll;*/
+}
+.bigtable2{
+position: absolute;
+margin: 0;
+padding: 0;
+top: 0%;
+left: 2%;
+width: 98%;
+height: 98%;
+
+overflow:scroll;
+}
+.bigtcol{
+position: absolute;
+ margin: 0;
+ padding: 0;
+ top: 10%;
+  left: 1%;
+  width: 20%; 
+  height: 33%;
+overflow:scroll;
+
+}
+
+.bigtitle{
+position: absolute;
+ margin: 0;
+ padding: 0;
+ top: -2%;
+  left: 0%;
+  width: 100%; 
+  height: 10%;
+overflow:hidden;
+font-family: 'Skranji', cursive;
+color: blue;
+background-image:url('blue49.jpg');
+}
+.dir{
+position: absolute;
+ margin: 0;
+ padding: 0;
+ top: 43%;
+  left: 1%;
+  width: 20%; 
+  height: 25%;
+overflow:scroll;
+display:none;
+}
+.fil{
+position: absolute;
+ margin: 0;
+ padding: 0;
+ top: 70%;
+  left: 1%;
+  width: 20%; 
+  height: 25%;
+overflow:scroll;
+display:none;
+}
+
+.load{
+position: relative;
+ margin: 0;
+ padding: 0;
+ top: 5%;
+  left: 20%;
+  width: 60%; 
+  height: 60%;
+background-image:url('loading.gif');
+background-size: 88%;
+}
+.dir2{
+position: absolute;
+ margin: 0;
+ padding: 0;
+ top: 43%;
+  left: 1%;
+  width: 20%; 
+  height: 25%;
+overflow:scroll;
+background-image:url('loading.gif');
+background-size: 88%;
+}
+.fil2{
+position: absolute;
+ margin: 0;
+ padding: 0;
+ top: 70%;
+  left: 1%;
+  width: 20%; 
+  height: 25%;
+overflow:scroll;
+background-image:url('loading.gif');
+background-size: 88%;
+}
+
+.lg2{
+position: relative;
+left: 33%;
+  top: 17%;
+  width: 33%; 
+  height: 45%;
+border:2px solid;
+//background-color:#0066FF;
+background-image:url('blue49.jpg');
+font-family: 'Skranji', cursive;
+}
+.lg3{
+position: relative;
+left: 33%;
+  top: 17%;
+  width: 33%; 
+  height: 45%;
+border:2px solid;
+//background-color:#0066FF;
+background-image:url('blue49.jpg');
+font-family: 'Skranji', cursive;
+overflow:scroll;
+}
+

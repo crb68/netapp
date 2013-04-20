@@ -1,0 +1,867 @@
+0000008a.0008e6c4 0152155f Tue Jan 01 2013 00:13:08 -05:00 [callhome.management.log:info] Call home for MANAGEMENT_LOG 
+0000008a.0008e711 015219bb Tue Jan 01 2013 00:15:00 -05:00 [cron_cron:info:14629] (root) CMD (/usr/libexec/atrun)
+0000008a.0008e726 015223ea Tue Jan 01 2013 00:19:21 -05:00 [mgmtgwd.filereplication.dist:info] The file replication service successfully distributed package 'stealth13.daily.2013-01-01.00_10_00.7z:0' to '10.98.24.152'. 
+0000008a.0008e727 01522573 Tue Jan 01 2013 00:20:00 -05:00 [cron_cron:info:14670] (root) CMD (/usr/libexec/atrun)
+0000008a.0008e739 015228f9 Tue Jan 01 2013 00:21:30 -05:00 [ntp_ntpd:info:2178] synchronized to 10.98.17.43, stratum 2
+0000008a.0008e73a 01522a23 Tue Jan 01 2013 00:22:00 -05:00 [cron_cron:info:14692] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008e73b 01522a23 Tue Jan 01 2013 00:22:00 -05:00 [user:notice] /usr/libexec/save-entropy[14696]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008e73f 01522be5 Tue Jan 01 2013 00:22:45 -05:00 [Nblade.invTcpRecordMarker:error] Invalid TCP record marker received from remote IP address 172.17.6.51 on local port 2049. Invalid reason is TCP_FRAGMENT, invalid record marker is 1357387099. 
+0000008a.0008e74f 0152312b Tue Jan 01 2013 00:25:00 -05:00 [cron_cron:info:15048] (root) CMD (/usr/libexec/atrun)
+0000008a.0008e76d 015233aa Tue Jan 01 2013 00:26:04 -05:00 [mgmtgwd.filereplication.subscribe.success:info] Subscription of package 'stealth.daily.2013-01-01.00_10_00.7z:latest' for 'extraction to /mroot/etc/backups/.tmp/stealth.daily.2013-01-01.00_10_00.7z' was successful. 
+0000008a.0008e788 01523ce3 Tue Jan 01 2013 00:30:00 -05:00 [cron_cron:info:15139] (root) CMD (/usr/libexec/atrun)
+0000008a.0008e78f 01523f3b Tue Jan 01 2013 00:31:00 -05:00 [cron_cron:info:15145] (root) CMD (adjkerntz -a)
+0000008a.0008e797 015243eb Tue Jan 01 2013 00:33:00 -05:00 [cron_cron:info:15154] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008e798 015243eb Tue Jan 01 2013 00:33:00 -05:00 [user:notice] /usr/libexec/save-entropy[15158]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008e7a5 0152489b Tue Jan 01 2013 00:35:00 -05:00 [cron_cron:info:15190] (root) CMD (/usr/libexec/atrun)
+0000008a.0008e7c4 01525453 Tue Jan 01 2013 00:40:00 -05:00 [cron_cron:info:15288] (root) CMD (/usr/libexec/atrun)
+0000008a.0008e7e1 01525db4 Tue Jan 01 2013 00:44:00 -05:00 [cron_cron:info:15321] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008e7e2 01525db4 Tue Jan 01 2013 00:44:00 -05:00 [user:notice] /usr/libexec/save-entropy[15325]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008e7e3 01525e7d Tue Jan 01 2013 00:44:20 -05:00 [wafl.mirror.access.denied:warning] Access to SnapMirror volume 'root_vs1_aggr13' was denied because SnapMirror initialization was not complete (exported Snapshot copy identifier '0' is invalid). 
+0000008a.0008e7e5 01526018 Tue Jan 01 2013 00:45:00 -05:00 [cron_cron:info:15329] (root) CMD (/usr/libexec/atrun)
+0000008a.0008e81f 01526bc4 Tue Jan 01 2013 00:50:00 -05:00 [cron_cron:info:15439] (root) CMD (/usr/libexec/atrun)
+0000008a.0008e845 0152777c Tue Jan 01 2013 00:55:00 -05:00 [cron_cron:info:15513] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008e846 0152777c Tue Jan 01 2013 00:55:00 -05:00 [cron_cron:info:15514] (root) CMD (/usr/libexec/atrun)
+0000008a.0008e847 0152777c Tue Jan 01 2013 00:55:00 -05:00 [user:notice] /usr/libexec/save-entropy[15519]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008e864 01528337 Tue Jan 01 2013 01:00:00 -05:00 [cron_cron:info:15572] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008e865 01528337 Tue Jan 01 2013 01:00:00 -05:00 [cron_cron:info:15571] (root) CMD (/etc/netapp_newsyslog)
+0000008a.0008e866 01528337 Tue Jan 01 2013 01:00:00 -05:00 [cron_cron:info:15573] (root) CMD (/usr/libexec/atrun)
+0000008a.0008e867 01528337 Tue Jan 01 2013 01:00:00 -05:00 [user:notice] /usr/libexec/save-entropy[15579]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008e868 01528337 Tue Jan 01 2013 01:00:00 -05:00 [kern.uptime.filer:info]   1:00am up 25 days, 16:13 18349751 NFS ops, 285755 CIFS ops, 0 HTTP ops, 0 FCP ops, 0 iSCSI ops  
+0000008a.0008e874 0152858c Tue Jan 01 2013 01:01:00 -05:00 [cron_cron:info:15606] (root) CMD (adjkerntz -a)
+0000008a.0008e87b 01528b4a Tue Jan 01 2013 01:03:27 -05:00 [ntp_ntpd:info:2178] synchronized to 10.98.18.43, stratum 2
+0000008a.0008e889 01528f06 Tue Jan 01 2013 01:05:00 -05:00 [cron_cron:info:15760] (root) CMD (/usr/libexec/atrun)
+0000008a.0008e904 01529aa4 Tue Jan 01 2013 01:10:00 -05:00 [cron_cron:info:15816] (root) CMD (/usr/libexec/atrun)
+0000008a.0008e908 01529cfc Tue Jan 01 2013 01:11:00 -05:00 [cron_cron:info:15835] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008e909 01529cfc Tue Jan 01 2013 01:11:00 -05:00 [user:notice] /usr/libexec/save-entropy[15839]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008e927 0152a65c Tue Jan 01 2013 01:15:00 -05:00 [cron_cron:info:15920] (root) CMD (/usr/libexec/atrun)
+0000008a.0008e94e 0152b214 Tue Jan 01 2013 01:20:00 -05:00 [cron_cron:info:15985] (root) CMD (/usr/libexec/atrun)
+0000008a.0008e952 0152b6c4 Tue Jan 01 2013 01:22:00 -05:00 [cron_cron:info:15992] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008e953 0152b6c4 Tue Jan 01 2013 01:22:00 -05:00 [user:notice] /usr/libexec/save-entropy[15996]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008e963 0152bdcd Tue Jan 01 2013 01:25:00 -05:00 [cron_cron:info:16048] (root) CMD (/usr/libexec/atrun)
+0000008a.0008e98f 0152c985 Tue Jan 01 2013 01:30:00 -05:00 [cron_cron:info:16147] (root) CMD (/usr/libexec/atrun)
+0000008a.0008e998 0152cbdd Tue Jan 01 2013 01:31:00 -05:00 [cron_cron:info:16155] (root) CMD (adjkerntz -a)
+0000008a.0008e99d 0152d08d Tue Jan 01 2013 01:33:00 -05:00 [cron_cron:info:16162] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008e99e 0152d08d Tue Jan 01 2013 01:33:00 -05:00 [user:notice] /usr/libexec/save-entropy[16166]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008e9a9 0152d53d Tue Jan 01 2013 01:35:00 -05:00 [cron_cron:info:16181] (root) CMD (/usr/libexec/atrun)
+0000008a.0008e9b5 0152dd63 Tue Jan 01 2013 01:38:29 -05:00 [wafl.mirror.access.denied:warning] Access to SnapMirror volume 'root_vs1_aggr13' was denied because SnapMirror initialization was not complete (exported Snapshot copy identifier '0' is invalid). 
+0000008a.0008eabd 0152e0f5 Tue Jan 01 2013 01:40:00 -05:00 [cron_cron:info:16272] (root) CMD (/usr/libexec/atrun)
+0000008a.0008eac2 0152e6d9 Tue Jan 01 2013 01:42:31 -05:00 [wafl.mirror.access.denied:warning] Access to SnapMirror volume 'root_vs1_aggr13' was denied because SnapMirror initialization was not complete (exported Snapshot copy identifier '0' is invalid). 
+0000008a.0008ead8 0152ea55 Tue Jan 01 2013 01:44:00 -05:00 [cron_cron:info:16330] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008ead9 0152ea55 Tue Jan 01 2013 01:44:00 -05:00 [user:notice] /usr/libexec/save-entropy[16334]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008eae2 0152ecb5 Tue Jan 01 2013 01:45:00 -05:00 [cron_cron:info:16345] (root) CMD (/usr/libexec/atrun)
+0000008a.0008eb06 0152f86e Tue Jan 01 2013 01:50:00 -05:00 [cron_cron:info:16413] (root) CMD (/usr/libexec/atrun)
+0000008a.0008eb2b 0153041d Tue Jan 01 2013 01:55:00 -05:00 [cron_cron:info:16508] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008eb2c 0153041d Tue Jan 01 2013 01:55:00 -05:00 [cron_cron:info:16509] (root) CMD (/usr/libexec/atrun)
+0000008a.0008eb2d 0153041d Tue Jan 01 2013 01:55:00 -05:00 [user:notice] /usr/libexec/save-entropy[16514]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008eb48 01530fd7 Tue Jan 01 2013 02:00:00 -05:00 [cron_cron:info:16553] (root) CMD (/etc/netapp_newsyslog)
+0000008a.0008eb49 01530fd7 Tue Jan 01 2013 02:00:00 -05:00 [cron_cron:info:16552] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008eb4a 01530fd7 Tue Jan 01 2013 02:00:00 -05:00 [cron_cron:info:16554] (root) CMD (/usr/libexec/atrun)
+0000008a.0008eb4b 01530fd7 Tue Jan 01 2013 02:00:00 -05:00 [user:notice] /usr/libexec/save-entropy[16560]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008eb4c 01530fd7 Tue Jan 01 2013 02:00:00 -05:00 [kern.uptime.filer:info]   2:00am up 25 days, 17:13 18350403 NFS ops, 285789 CIFS ops, 0 HTTP ops, 0 FCP ops, 0 iSCSI ops  
+0000008a.0008eb54 0153122e Tue Jan 01 2013 02:01:00 -05:00 [cron_cron:info:16584] (root) CMD (adjkerntz -a)
+0000008a.0008eb6e 01531bb6 Tue Jan 01 2013 02:05:00 -05:00 [cron_cron:info:16741] (root) CMD (/usr/libexec/atrun)
+0000008a.0008ebdd 01532746 Tue Jan 01 2013 02:10:00 -05:00 [cron_cron:info:16786] (root) CMD (/usr/libexec/atrun)
+0000008a.0008ebeb 0153299e Tue Jan 01 2013 02:11:00 -05:00 [cron_cron:info:16797] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008ebec 0153299e Tue Jan 01 2013 02:11:00 -05:00 [user:notice] /usr/libexec/save-entropy[16801]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008ebf0 01532b8f Tue Jan 01 2013 02:11:50 -05:00 [ntp_ntpd:info:2178] synchronized to 10.98.17.43, stratum 2
+0000008a.0008ec07 015332fe Tue Jan 01 2013 02:15:00 -05:00 [cron_cron:info:16877] (root) CMD (/usr/libexec/atrun)
+0000008a.0008ec13 01533546 Tue Jan 01 2013 02:15:59 -05:00 [mgmtgwd.filereplication.publish.success:info] Successfully published '/mroot/etc/backups/config/stealth13.8hour.2013-01-01.02_15_03.7z' as package 'stealth13.8hour.2013-01-01.02_15_03.7z:0'. 
+0000008a.0008ec21 01533eb6 Tue Jan 01 2013 02:20:00 -05:00 [cron_cron:info:17764] (root) CMD (/usr/libexec/atrun)
+0000008a.0008ec2f 01534366 Tue Jan 01 2013 02:22:00 -05:00 [cron_cron:info:17780] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008ec30 01534366 Tue Jan 01 2013 02:22:00 -05:00 [user:notice] /usr/libexec/save-entropy[17784]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008ec39 015347c4 Tue Jan 01 2013 02:23:52 -05:00 [mgmtgwd.filereplication.dist:info] The file replication service successfully distributed package 'stealth13.8hour.2013-01-01.02_15_03.7z:0' to '10.98.24.160'. 
+0000008a.0008ec42 01534a6e Tue Jan 01 2013 02:25:00 -05:00 [cron_cron:info:17834] (root) CMD (/usr/libexec/atrun)
+0000008a.0008ec7c 01535626 Tue Jan 01 2013 02:30:00 -05:00 [cron_cron:info:18237] (root) CMD (/usr/libexec/atrun)
+0000008a.0008ec90 01535790 Tue Jan 01 2013 02:30:37 -05:00 [mgmtgwd.filereplication.subscribe.success:info] Subscription of package 'stealth.8hour.2013-01-01.02_15_03.7z:latest' for 'extraction to /mroot/etc/backups/.tmp/stealth.8hour.2013-01-01.02_15_03.7z' was successful. 
+0000008a.0008ec99 0153587e Tue Jan 01 2013 02:31:00 -05:00 [cron_cron:info:18280] (root) CMD (adjkerntz -a)
+0000008a.0008eca0 01535d2f Tue Jan 01 2013 02:33:00 -05:00 [cron_cron:info:18290] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008eca1 01535d2f Tue Jan 01 2013 02:33:00 -05:00 [user:notice] /usr/libexec/save-entropy[18294]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008ecae 015361df Tue Jan 01 2013 02:35:00 -05:00 [cron_cron:info:18302] (root) CMD (/usr/libexec/atrun)
+0000008a.0008eccb 01536d97 Tue Jan 01 2013 02:40:00 -05:00 [cron_cron:info:18394] (root) CMD (/usr/libexec/atrun)
+0000008a.0008ece2 015376f7 Tue Jan 01 2013 02:44:00 -05:00 [cron_cron:info:18467] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008ece3 015376f7 Tue Jan 01 2013 02:44:00 -05:00 [user:notice] /usr/libexec/save-entropy[18471]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008ece6 015377f7 Tue Jan 01 2013 02:44:26 -05:00 [wafl.mirror.access.denied:warning] Access to SnapMirror volume 'root_vs1_aggr13' was denied because SnapMirror initialization was not complete (exported Snapshot copy identifier '0' is invalid). 
+0000008a.0008ecec 01537952 Tue Jan 01 2013 02:45:00 -05:00 [cron_cron:info:18479] (root) CMD (/usr/libexec/atrun)
+0000008a.0008ed2e 01538507 Tue Jan 01 2013 02:50:00 -05:00 [cron_cron:info:18547] (root) CMD (/usr/libexec/atrun)
+0000008a.0008ed60 015390bf Tue Jan 01 2013 02:55:00 -05:00 [cron_cron:info:18667] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008ed61 015390bf Tue Jan 01 2013 02:55:00 -05:00 [cron_cron:info:18668] (root) CMD (/usr/libexec/atrun)
+0000008a.0008ed62 015390bf Tue Jan 01 2013 02:55:00 -05:00 [user:notice] /usr/libexec/save-entropy[18673]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008ed8b 01539c78 Tue Jan 01 2013 03:00:00 -05:00 [kern.uptime.filer:info]   3:00am up 25 days, 18:13 18351087 NFS ops, 285823 CIFS ops, 0 HTTP ops, 0 FCP ops, 0 iSCSI ops  
+0000008a.0008ed8c 01539c78 Tue Jan 01 2013 03:00:00 -05:00 [cron_cron:info:18717] (root) CMD (/etc/netapp_newsyslog)
+0000008a.0008ed8d 01539c78 Tue Jan 01 2013 03:00:00 -05:00 [cron_cron:info:18718] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008ed8e 01539c78 Tue Jan 01 2013 03:00:00 -05:00 [cron_cron:info:18719] (root) CMD (/usr/libexec/atrun)
+0000008a.0008ed8f 01539c78 Tue Jan 01 2013 03:00:01 -05:00 [user:notice] /usr/libexec/save-entropy[18725]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008eda4 01539ec6 Tue Jan 01 2013 03:01:00 -05:00 [cron_cron:info:18761] (root) CMD (adjkerntz -a)
+0000008a.0008eda5 01539ec6 Tue Jan 01 2013 03:01:00 -05:00 [cron_cron:info:18762] (root) CMD (periodic daily)
+0000008a.0008edc8 0153a858 Tue Jan 01 2013 03:05:00 -05:00 [cron_cron:info:18937] (root) CMD (/usr/libexec/atrun)
+0000008a.0008ee41 0153b3de Tue Jan 01 2013 03:10:00 -05:00 [cron_cron:info:19009] (root) CMD (/usr/libexec/atrun)
+0000008a.0008ee4a 0153b636 Tue Jan 01 2013 03:11:00 -05:00 [cron_cron:info:19018] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008ee4b 0153b636 Tue Jan 01 2013 03:11:00 -05:00 [user:notice] /usr/libexec/save-entropy[19022]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008ee4e 0153b7b6 Tue Jan 01 2013 03:11:38 -05:00 [ntp_ntpd:notice:2178] kernel time sync enabled 6001
+0000008a.0008ee64 0153bf96 Tue Jan 01 2013 03:15:00 -05:00 [cron_cron:info:19083] (root) CMD (/usr/libexec/atrun)
+0000008a.0008ee91 0153cb4e Tue Jan 01 2013 03:20:00 -05:00 [cron_cron:info:19184] (root) CMD (/usr/libexec/atrun)
+0000008a.0008eea0 0153cffe Tue Jan 01 2013 03:22:00 -05:00 [cron_cron:info:19199] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008eea1 0153cffe Tue Jan 01 2013 03:22:00 -05:00 [user:notice] /usr/libexec/save-entropy[19203]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008eeaf 0153d706 Tue Jan 01 2013 03:25:00 -05:00 [cron_cron:info:19228] (root) CMD (/usr/libexec/atrun)
+0000008a.0008eed5 0153dfca Tue Jan 01 2013 03:28:44 -05:00 [ntp_ntpd:notice:2178] kernel time sync enabled 2001
+0000008a.0008eedc 0153e2be Tue Jan 01 2013 03:30:00 -05:00 [cron_cron:info:19329] (root) CMD (/usr/libexec/atrun)
+0000008a.0008eef8 0153e516 Tue Jan 01 2013 03:31:00 -05:00 [cron_cron:info:19361] (root) CMD (adjkerntz -a)
+0000008a.0008eefd 0153e9c6 Tue Jan 01 2013 03:33:00 -05:00 [cron_cron:info:19391] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008eefe 0153e9c6 Tue Jan 01 2013 03:33:00 -05:00 [user:notice] /usr/libexec/save-entropy[19395]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008ef12 0153ee76 Tue Jan 01 2013 03:35:00 -05:00 [cron_cron:info:19409] (root) CMD (/usr/libexec/atrun)
+0000008a.0008ef2f 0153fa2f Tue Jan 01 2013 03:40:00 -05:00 [cron_cron:info:19491] (root) CMD (/usr/libexec/atrun)
+0000008a.0008ef43 015401fa Tue Jan 01 2013 03:43:19 -05:00 [user_env_mgr:error] Sensor ipmi0:20:00:43 reading is na
+0000008a.0008ef47 015402d2 Tue Jan 01 2013 03:43:41 -05:00 [wafl.mirror.access.denied:warning] Access to SnapMirror volume 'root_vs1_aggr13' was denied because SnapMirror initialization was not complete (exported Snapshot copy identifier '0' is invalid). 
+0000008a.0008ef4b 0154038f Tue Jan 01 2013 03:44:00 -05:00 [cron_cron:info:19583] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008ef4c 0154038f Tue Jan 01 2013 03:44:00 -05:00 [user:notice] /usr/libexec/save-entropy[19587]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008ef52 01540534 Tue Jan 01 2013 03:44:42 -05:00 [user_env_mgr:error] Sensor ipmi0:20:00:12 reading is na
+0000008a.0008ef53 01540534 Tue Jan 01 2013 03:44:42 -05:00 [user_env_mgr:error] Sensor ipmi0:20:00:11 reading is na
+0000008a.0008ef55 015405f7 Tue Jan 01 2013 03:45:00 -05:00 [cron_cron:info:19595] (root) CMD (/usr/libexec/atrun)
+0000008a.0008ef91 0154119f Tue Jan 01 2013 03:50:00 -05:00 [cron_cron:info:19647] (root) CMD (/usr/libexec/atrun)
+0000008a.0008efbd 01541d57 Tue Jan 01 2013 03:55:00 -05:00 [cron_cron:info:19751] (root) CMD (/usr/libexec/atrun)
+0000008a.0008efbe 01541d57 Tue Jan 01 2013 03:55:00 -05:00 [cron_cron:info:19750] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008efbf 01541d57 Tue Jan 01 2013 03:55:00 -05:00 [user:notice] /usr/libexec/save-entropy[19756]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008efcd 01542197 Tue Jan 01 2013 03:56:48 -05:00 [user_env_mgr:error] Sensor ipmi0:20:00:4c reading is na
+0000008a.0008efce 01542197 Tue Jan 01 2013 03:56:48 -05:00 [user_env_mgr:error] Sensor ipmi0:20:00:4b reading is na
+0000008a.0008efcf 01542197 Tue Jan 01 2013 03:56:48 -05:00 [user_env_mgr:error] Sensor ipmi0:20:00:4a reading is na
+0000008a.0008efd0 01542197 Tue Jan 01 2013 03:56:48 -05:00 [user_env_mgr:error] Sensor ipmi0:20:00:49 reading is na
+0000008a.0008efe0 01542916 Tue Jan 01 2013 04:00:00 -05:00 [cron_cron:info:19813] (root) CMD (/etc/netapp_newsyslog)
+0000008a.0008efe1 01542916 Tue Jan 01 2013 04:00:00 -05:00 [cron_cron:info:19814] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008efe2 01542916 Tue Jan 01 2013 04:00:00 -05:00 [cron_cron:info:19815] (root) CMD (/usr/libexec/atrun)
+0000008a.0008efe3 01542916 Tue Jan 01 2013 04:00:00 -05:00 [user:notice] /usr/libexec/save-entropy[19821]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008efe4 01542916 Tue Jan 01 2013 04:00:00 -05:00 [kern.uptime.filer:info]   4:00am up 25 days, 19:13 18351770 NFS ops, 285861 CIFS ops, 0 HTTP ops, 0 FCP ops, 0 iSCSI ops  
+0000008a.0008effc 01542b67 Tue Jan 01 2013 04:01:00 -05:00 [cron_cron:info:19837] (root) CMD (adjkerntz -a)
+0000008a.0008f012 015434ed Tue Jan 01 2013 04:05:00 -05:00 [cron_cron:info:19996] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f08e 0154407f Tue Jan 01 2013 04:10:00 -05:00 [cron_cron:info:20090] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f099 015442d8 Tue Jan 01 2013 04:11:00 -05:00 [cron_cron:info:20100] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008f09a 015442d8 Tue Jan 01 2013 04:11:00 -05:00 [user:notice] /usr/libexec/save-entropy[20104]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008f0bd 01544c38 Tue Jan 01 2013 04:15:00 -05:00 [cron_cron:info:20158] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f0ea 015457f0 Tue Jan 01 2013 04:20:00 -05:00 [cron_cron:info:20267] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f0f9 01545ca0 Tue Jan 01 2013 04:22:00 -05:00 [cron_cron:info:20298] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008f0fa 01545ca0 Tue Jan 01 2013 04:22:00 -05:00 [user:notice] /usr/libexec/save-entropy[20302]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008f10f 015463a8 Tue Jan 01 2013 04:25:00 -05:00 [cron_cron:info:20323] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f13b 01546f60 Tue Jan 01 2013 04:30:00 -05:00 [cron_cron:info:20420] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f14e 015471b8 Tue Jan 01 2013 04:31:00 -05:00 [cron_cron:info:20448] (root) CMD (adjkerntz -a)
+0000008a.0008f155 0154767a Tue Jan 01 2013 04:33:00 -05:00 [cron_cron:info:20491] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008f156 0154767a Tue Jan 01 2013 04:33:00 -05:00 [user:notice] /usr/libexec/save-entropy[20495]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008f167 01547b21 Tue Jan 01 2013 04:35:00 -05:00 [cron_cron:info:20511] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f184 015486d0 Tue Jan 01 2013 04:40:00 -05:00 [cron_cron:info:20573] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f1a0 01549030 Tue Jan 01 2013 04:44:00 -05:00 [wafl.mirror.access.denied:warning] Access to SnapMirror volume 'root_vs1_aggr13' was denied because SnapMirror initialization was not complete (exported Snapshot copy identifier '0' is invalid). 
+0000008a.0008f1a1 01549030 Tue Jan 01 2013 04:44:00 -05:00 [cron_cron:info:20649] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008f1a2 01549030 Tue Jan 01 2013 04:44:00 -05:00 [user:notice] /usr/libexec/save-entropy[20653]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008f1a7 01549292 Tue Jan 01 2013 04:45:00 -05:00 [cron_cron:info:20680] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f1d7 01549e47 Tue Jan 01 2013 04:50:00 -05:00 [cron_cron:info:20704] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f210 0154a9f9 Tue Jan 01 2013 04:55:00 -05:00 [cron_cron:info:20807] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f211 0154a9f9 Tue Jan 01 2013 04:55:00 -05:00 [cron_cron:info:20806] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008f212 0154a9f9 Tue Jan 01 2013 04:55:00 -05:00 [user:notice] /usr/libexec/save-entropy[20812]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008f22f 0154b5b6 Tue Jan 01 2013 05:00:00 -05:00 [cron_cron:info:20872] (root) CMD (/etc/netapp_newsyslog)
+0000008a.0008f230 0154b5b6 Tue Jan 01 2013 05:00:00 -05:00 [cron_cron:info:20873] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f231 0154b5b6 Tue Jan 01 2013 05:00:00 -05:00 [cron_cron:info:20874] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008f232 0154b5b6 Tue Jan 01 2013 05:00:00 -05:00 [user:notice] /usr/libexec/save-entropy[20880]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008f233 0154b5b6 Tue Jan 01 2013 05:00:00 -05:00 [kern.uptime.filer:info]   5:00am up 25 days, 20:13 18352424 NFS ops, 285895 CIFS ops, 0 HTTP ops, 0 FCP ops, 0 iSCSI ops  
+0000008a.0008f23f 0154b809 Tue Jan 01 2013 05:01:00 -05:00 [cron_cron:info:20888] (root) CMD (adjkerntz -a)
+0000008a.0008f257 0154c195 Tue Jan 01 2013 05:05:00 -05:00 [cron_cron:info:21028] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f2d1 0154cd21 Tue Jan 01 2013 05:10:00 -05:00 [cron_cron:info:21131] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f2d5 0154cf79 Tue Jan 01 2013 05:11:00 -05:00 [cron_cron:info:21134] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008f2d6 0154cf79 Tue Jan 01 2013 05:11:00 -05:00 [user:notice] /usr/libexec/save-entropy[21138]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008f2ee 0154d8d9 Tue Jan 01 2013 05:15:00 -05:00 [cron_cron:info:21164] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f308 0154e491 Tue Jan 01 2013 05:20:00 -05:00 [cron_cron:info:21255] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f310 0154e941 Tue Jan 01 2013 05:22:00 -05:00 [cron_cron:info:21299] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008f311 0154e941 Tue Jan 01 2013 05:22:00 -05:00 [user:notice] /usr/libexec/save-entropy[21303]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008f31d 0154f04a Tue Jan 01 2013 05:25:00 -05:00 [cron_cron:info:21312] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f340 0154fc02 Tue Jan 01 2013 05:30:00 -05:00 [cron_cron:info:21380] (root) CMD (periodic monthly)
+0000008a.0008f341 0154fc02 Tue Jan 01 2013 05:30:00 -05:00 [cron_cron:info:21381] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f350 0154fe5e Tue Jan 01 2013 05:31:00 -05:00 [cron_cron:info:21404] (root) CMD (adjkerntz -a)
+0000008a.0008f358 0155030a Tue Jan 01 2013 05:33:00 -05:00 [cron_cron:info:21441] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008f359 0155030a Tue Jan 01 2013 05:33:00 -05:00 [user:notice] /usr/libexec/save-entropy[21445]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008f35f 015507ba Tue Jan 01 2013 05:35:00 -05:00 [cron_cron:info:21471] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f372 01551372 Tue Jan 01 2013 05:40:00 -05:00 [cron_cron:info:21503] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f388 01551c78 Tue Jan 01 2013 05:43:51 -05:00 [wafl.mirror.access.denied:warning] Access to SnapMirror volume 'root_vs1_aggr13' was denied because SnapMirror initialization was not complete (exported Snapshot copy identifier '0' is invalid). 
+0000008a.0008f389 01551cd2 Tue Jan 01 2013 05:44:00 -05:00 [cron_cron:info:21579] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008f38a 01551cd2 Tue Jan 01 2013 05:44:00 -05:00 [user:notice] /usr/libexec/save-entropy[21583]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008f38c 01551f33 Tue Jan 01 2013 05:45:00 -05:00 [cron_cron:info:21600] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f3ac 01552ae7 Tue Jan 01 2013 05:50:00 -05:00 [cron_cron:info:21633] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f3cd 0155369a Tue Jan 01 2013 05:55:00 -05:00 [cron_cron:info:21711] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f3ce 0155369a Tue Jan 01 2013 05:55:00 -05:00 [cron_cron:info:21710] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008f3cf 0155369a Tue Jan 01 2013 05:55:00 -05:00 [user:notice] /usr/libexec/save-entropy[21716]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008f3e4 01553e2c Tue Jan 01 2013 05:58:14 -05:00 [ntp_ntpd:info:2178] synchronized to 10.98.18.43, stratum 2
+0000008a.0008f3ee 01553f62 Tue Jan 01 2013 05:58:45 -05:00 [ntp_ntpd:info:2178] synchronized to 10.98.17.43, stratum 2
+0000008a.0008f3ef 01553fc6 Tue Jan 01 2013 05:58:55 -05:00 [ntp_ntpd:info:2178] synchronized to 10.98.18.43, stratum 2
+0000008a.0008f3f0 01553ff8 Tue Jan 01 2013 05:59:00 -05:00 [ntp_ntpd:info:2178] synchronized to 10.98.24.149, stratum 3
+0000008a.0008f3f1 01554255 Tue Jan 01 2013 06:00:00 -05:00 [cron_cron:info:21793] (root) CMD (/etc/netapp_newsyslog)
+0000008a.0008f3f2 01554255 Tue Jan 01 2013 06:00:00 -05:00 [cron_cron:info:21794] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008f3f3 01554255 Tue Jan 01 2013 06:00:00 -05:00 [cron_cron:info:21795] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f3f4 01554255 Tue Jan 01 2013 06:00:00 -05:00 [user:notice] /usr/libexec/save-entropy[21801]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008f3f5 01554255 Tue Jan 01 2013 06:00:00 -05:00 [kern.uptime.filer:info]   6:00am up 25 days, 21:13 18353091 NFS ops, 285931 CIFS ops, 0 HTTP ops, 0 FCP ops, 0 iSCSI ops  
+0000008a.0008f40f 015549f8 Tue Jan 01 2013 06:03:16 -05:00 [ntp_ntpd:info:2178] synchronized to 10.98.18.43, stratum 2
+0000008a.0008f419 01554e35 Tue Jan 01 2013 06:05:00 -05:00 [cron_cron:info:21932] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f475 015559c3 Tue Jan 01 2013 06:10:00 -05:00 [cron_cron:info:22022] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f481 01555c1b Tue Jan 01 2013 06:11:00 -05:00 [cron_cron:info:22046] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008f482 01555c1b Tue Jan 01 2013 06:11:00 -05:00 [user:notice] /usr/libexec/save-entropy[22050]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008f497 0155657b Tue Jan 01 2013 06:15:00 -05:00 [cron_cron:info:22064] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f4b3 01557133 Tue Jan 01 2013 06:20:00 -05:00 [cron_cron:info:22151] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f4c7 015575e3 Tue Jan 01 2013 06:22:00 -05:00 [cron_cron:info:22197] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008f4c8 015575e3 Tue Jan 01 2013 06:22:00 -05:00 [user:notice] /usr/libexec/save-entropy[22201]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008f4d1 01557b80 Tue Jan 01 2013 06:24:24 -05:00 [ntp_ntpd:info:2178] synchronized to 10.98.17.43, stratum 2
+0000008a.0008f4d2 01557ceb Tue Jan 01 2013 06:25:00 -05:00 [cron_cron:info:22223] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f506 015588a3 Tue Jan 01 2013 06:30:00 -05:00 [cron_cron:info:22289] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f518 01558fab Tue Jan 01 2013 06:33:00 -05:00 [cron_cron:info:22344] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008f519 01558fab Tue Jan 01 2013 06:33:00 -05:00 [user:notice] /usr/libexec/save-entropy[22348]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008f524 0155945b Tue Jan 01 2013 06:35:00 -05:00 [cron_cron:info:22393] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f543 0155a013 Tue Jan 01 2013 06:40:00 -05:00 [cron_cron:info:22418] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f556 0155a974 Tue Jan 01 2013 06:44:00 -05:00 [cron_cron:info:22494] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008f557 0155a974 Tue Jan 01 2013 06:44:00 -05:00 [user:notice] /usr/libexec/save-entropy[22498]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008f558 0155a9b3 Tue Jan 01 2013 06:44:07 -05:00 [wafl.mirror.access.denied:warning] Access to SnapMirror volume 'root_vs1_aggr13' was denied because SnapMirror initialization was not complete (exported Snapshot copy identifier '0' is invalid). 
+0000008a.0008f55f 0155abd2 Tue Jan 01 2013 06:45:00 -05:00 [cron_cron:info:22520] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f58a 0155b784 Tue Jan 01 2013 06:50:00 -05:00 [cron_cron:info:22579] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f5b4 0155c33c Tue Jan 01 2013 06:55:00 -05:00 [cron_cron:info:22642] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008f5b5 0155c33c Tue Jan 01 2013 06:55:00 -05:00 [cron_cron:info:22643] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f5b6 0155c33c Tue Jan 01 2013 06:55:00 -05:00 [user:notice] /usr/libexec/save-entropy[22648]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008f5c5 0155cacc Tue Jan 01 2013 06:58:14 -05:00 [ntp_ntpd:info:2178] synchronized to 10.98.18.43, stratum 2
+0000008a.0008f5ca 0155cbbc Tue Jan 01 2013 06:58:38 -05:00 [ntp_ntpd:info:2178] synchronized to 10.98.17.43, stratum 2
+0000008a.0008f5cc 0155cef5 Tue Jan 01 2013 07:00:00 -05:00 [cron_cron:info:22733] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008f5cd 0155cef5 Tue Jan 01 2013 07:00:00 -05:00 [cron_cron:info:22734] (root) CMD (/etc/netapp_newsyslog)
+0000008a.0008f5ce 0155cef5 Tue Jan 01 2013 07:00:00 -05:00 [cron_cron:info:22735] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f5cf 0155cef5 Tue Jan 01 2013 07:00:00 -05:00 [user:notice] /usr/libexec/save-entropy[22741]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008f5d0 0155cef5 Tue Jan 01 2013 07:00:00 -05:00 [kern.uptime.filer:info]   7:00am up 25 days, 22:13 18353828 NFS ops, 285965 CIFS ops, 0 HTTP ops, 0 FCP ops, 0 iSCSI ops  
+0000008a.0008f5ed 0155daf5 Tue Jan 01 2013 07:05:00 -05:00 [cron_cron:info:22849] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f65c 0155e664 Tue Jan 01 2013 07:10:00 -05:00 [cron_cron:info:22941] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f660 0155e8bc Tue Jan 01 2013 07:11:00 -05:00 [cron_cron:info:22959] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008f661 0155e8bc Tue Jan 01 2013 07:11:00 -05:00 [user:notice] /usr/libexec/save-entropy[22963]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008f67c 0155f21c Tue Jan 01 2013 07:15:00 -05:00 [cron_cron:info:22999] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f69b 0155fdd5 Tue Jan 01 2013 07:20:00 -05:00 [cron_cron:info:23074] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f6a8 01560285 Tue Jan 01 2013 07:22:00 -05:00 [cron_cron:info:23113] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008f6a9 01560285 Tue Jan 01 2013 07:22:00 -05:00 [user:notice] /usr/libexec/save-entropy[23117]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008f6b6 01560672 Tue Jan 01 2013 07:23:41 -05:00 [ntp_ntpd:info:2178] synchronized to 10.98.18.43, stratum 2
+0000008a.0008f6b7 0156098d Tue Jan 01 2013 07:25:00 -05:00 [cron_cron:info:23159] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f6d8 01561545 Tue Jan 01 2013 07:30:00 -05:00 [cron_cron:info:23192] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f6ee 01561bb1 Tue Jan 01 2013 07:32:45 -05:00 [ntp_ntpd:info:2178] synchronized to 10.98.17.43, stratum 2
+0000008a.0008f6f2 01561c4d Tue Jan 01 2013 07:33:00 -05:00 [cron_cron:info:23257] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008f6f3 01561c4d Tue Jan 01 2013 07:33:00 -05:00 [user:notice] /usr/libexec/save-entropy[23261]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008f6f8 015620fd Tue Jan 01 2013 07:35:01 -05:00 [cron_cron:info:23295] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f70b 01562cab Tue Jan 01 2013 07:40:00 -05:00 [cron_cron:info:23330] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f71a 01563405 Tue Jan 01 2013 07:43:08 -05:00 [wafl.mirror.access.denied:warning] Access to SnapMirror volume 'root_vs1_aggr13' was denied because SnapMirror initialization was not complete (exported Snapshot copy identifier '0' is invalid). 
+0000008a.0008f724 0156360b Tue Jan 01 2013 07:44:00 -05:00 [cron_cron:info:23393] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008f725 0156360b Tue Jan 01 2013 07:44:00 -05:00 [user:notice] /usr/libexec/save-entropy[23397]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008f728 01563870 Tue Jan 01 2013 07:45:00 -05:00 [cron_cron:info:23415] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f74d 0156441b Tue Jan 01 2013 07:50:00 -05:00 [cron_cron:info:23490] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f779 01564fd3 Tue Jan 01 2013 07:55:00 -05:00 [cron_cron:info:23539] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008f77a 01564fd3 Tue Jan 01 2013 07:55:00 -05:00 [cron_cron:info:23540] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f77b 01564fd3 Tue Jan 01 2013 07:55:00 -05:00 [user:notice] /usr/libexec/save-entropy[23545]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008f78e 01565b8c Tue Jan 01 2013 08:00:00 -05:00 [kern.uptime.filer:info]   8:00am up 25 days, 23:13 18354661 NFS ops, 285999 CIFS ops, 0 HTTP ops, 0 FCP ops, 0 iSCSI ops  
+0000008a.0008f78f 01565b8c Tue Jan 01 2013 08:00:00 -05:00 [cron_cron:info:23643] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f790 01565b8c Tue Jan 01 2013 08:00:00 -05:00 [cron_cron:info:23641] (root) CMD (/etc/netapp_newsyslog)
+0000008a.0008f791 01565b8c Tue Jan 01 2013 08:00:00 -05:00 [cron_cron:info:23642] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008f792 01565b8c Tue Jan 01 2013 08:00:00 -05:00 [user:notice] /usr/libexec/save-entropy[23649]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008f7b3 01566761 Tue Jan 01 2013 08:05:00 -05:00 [cron_cron:info:23765] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f81a 015672fc Tue Jan 01 2013 08:10:00 -05:00 [cron_cron:info:23853] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f81e 01567554 Tue Jan 01 2013 08:11:00 -05:00 [cron_cron:info:23871] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008f81f 01567554 Tue Jan 01 2013 08:11:00 -05:00 [user:notice] /usr/libexec/save-entropy[23875]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008f846 01567ea3 Tue Jan 01 2013 08:14:58 -05:00 [ntp_ntpd:info:2178] synchronized to 10.98.18.43, stratum 2
+0000008a.0008f847 01567eb4 Tue Jan 01 2013 08:15:00 -05:00 [cron_cron:info:23928] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f858 015687c7 Tue Jan 01 2013 08:18:52 -05:00 [ntp_ntpd:info:2178] synchronized to 10.98.17.43, stratum 2
+0000008a.0008f85c 01568a6c Tue Jan 01 2013 08:20:00 -05:00 [cron_cron:info:23983] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f86a 01568f1c Tue Jan 01 2013 08:22:00 -05:00 [cron_cron:info:24028] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008f86b 01568f1c Tue Jan 01 2013 08:22:00 -05:00 [user:notice] /usr/libexec/save-entropy[24032]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008f878 01569624 Tue Jan 01 2013 08:25:00 -05:00 [cron_cron:info:24092] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f899 0156a1dc Tue Jan 01 2013 08:30:00 -05:00 [cron_cron:info:24113] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f8ad 0156a8e4 Tue Jan 01 2013 08:33:00 -05:00 [cron_cron:info:24172] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008f8ae 0156a8e4 Tue Jan 01 2013 08:33:00 -05:00 [user:notice] /usr/libexec/save-entropy[24176]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008f8b8 0156ad94 Tue Jan 01 2013 08:35:00 -05:00 [cron_cron:info:24214] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f8d0 0156b94d Tue Jan 01 2013 08:40:00 -05:00 [cron_cron:info:24269] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f8ec 0156c2ad Tue Jan 01 2013 08:44:00 -05:00 [cron_cron:info:24321] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008f8ed 0156c2ad Tue Jan 01 2013 08:44:00 -05:00 [user:notice] /usr/libexec/save-entropy[24325]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008f8ee 0156c3b6 Tue Jan 01 2013 08:44:26 -05:00 [wafl.mirror.access.denied:warning] Access to SnapMirror volume 'root_vs1_aggr13' was denied because SnapMirror initialization was not complete (exported Snapshot copy identifier '0' is invalid). 
+0000008a.0008f8f3 0156c516 Tue Jan 01 2013 08:45:00 -05:00 [cron_cron:info:24346] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f91c 0156d0bd Tue Jan 01 2013 08:50:00 -05:00 [cron_cron:info:24434] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f942 0156dc75 Tue Jan 01 2013 08:55:00 -05:00 [cron_cron:info:24466] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008f943 0156dc75 Tue Jan 01 2013 08:55:00 -05:00 [cron_cron:info:24467] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f944 0156dc75 Tue Jan 01 2013 08:55:00 -05:00 [user:notice] /usr/libexec/save-entropy[24472]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008f958 0156e82d Tue Jan 01 2013 09:00:00 -05:00 [kern.uptime.filer:info]   9:00am up 26 days, 13 mins, 18355357 NFS ops, 286034 CIFS ops, 0 HTTP ops, 0 FCP ops, 0 iSCSI ops  
+0000008a.0008f959 0156e82d Tue Jan 01 2013 09:00:00 -05:00 [cron_cron:info:24562] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f95a 0156e82d Tue Jan 01 2013 09:00:00 -05:00 [cron_cron:info:24560] (root) CMD (/etc/netapp_newsyslog)
+0000008a.0008f95b 0156e82d Tue Jan 01 2013 09:00:00 -05:00 [cron_cron:info:24561] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008f95c 0156e82d Tue Jan 01 2013 09:00:00 -05:00 [user:notice] /usr/libexec/save-entropy[24568]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008f97d 0156f434 Tue Jan 01 2013 09:05:00 -05:00 [cron_cron:info:24694] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f9c3 0156f6c9 Tue Jan 01 2013 09:06:13 -05:00 [ntp_ntpd:info:2178] synchronized to 10.98.18.43, stratum 2
+0000008a.0008f9c9 0156f710 Tue Jan 01 2013 09:06:21 -05:00 [Nblade.invTcpRecordMarker:error] Invalid TCP record marker received from remote IP address 172.17.6.51 on local port 2049. Invalid reason is TCP_FRAGMENT, invalid record marker is 1357616164. 
+0000008a.0008f9f1 0156ff9d Tue Jan 01 2013 09:10:00 -05:00 [cron_cron:info:24771] (root) CMD (/usr/libexec/atrun)
+0000008a.0008f9f6 015701f5 Tue Jan 01 2013 09:11:00 -05:00 [cron_cron:info:24789] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008f9f7 015701f5 Tue Jan 01 2013 09:11:00 -05:00 [user:notice] /usr/libexec/save-entropy[24793]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008fa10 01570b55 Tue Jan 01 2013 09:15:00 -05:00 [cron_cron:info:24864] (root) CMD (/usr/libexec/atrun)
+0000008a.0008fa22 015713b4 Tue Jan 01 2013 09:18:34 -05:00 [Nblade.invTcpRecordMarker:error] Invalid TCP record marker received from remote IP address 172.17.6.51 on local port 2049. Invalid reason is TCP_FRAGMENT, invalid record marker is 1357843191. 
+0000008a.0008fa2a 0157170e Tue Jan 01 2013 09:20:00 -05:00 [cron_cron:info:24900] (root) CMD (/usr/libexec/atrun)
+0000008a.0008fa31 01571bbe Tue Jan 01 2013 09:22:00 -05:00 [cron_cron:info:24937] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008fa32 01571bbe Tue Jan 01 2013 09:22:00 -05:00 [user:notice] /usr/libexec/save-entropy[24941]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008fa45 015722c6 Tue Jan 01 2013 09:25:00 -05:00 [cron_cron:info:24999] (root) CMD (/usr/libexec/atrun)
+0000008a.0008fa5c 015728cc Tue Jan 01 2013 09:27:34 -05:00 [Nblade.invTcpRecordMarker:error] Invalid TCP record marker received from remote IP address 172.17.6.51 on local port 2049. Invalid reason is TCP_FRAGMENT, invalid record marker is 1357865615. 
+0000008a.0008fa69 01572e7e Tue Jan 01 2013 09:30:00 -05:00 [cron_cron:info:25038] (root) CMD (/usr/libexec/atrun)
+0000008a.0008fa78 01573586 Tue Jan 01 2013 09:33:00 -05:00 [cron_cron:info:25080] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008fa79 01573586 Tue Jan 01 2013 09:33:00 -05:00 [user:notice] /usr/libexec/save-entropy[25084]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008fa83 01573a36 Tue Jan 01 2013 09:35:00 -05:00 [cron_cron:info:25124] (root) CMD (/usr/libexec/atrun)
+0000008a.0008fa9c 015745ee Tue Jan 01 2013 09:40:00 -05:00 [cron_cron:info:25196] (root) CMD (/usr/libexec/atrun)
+0000008a.0008faae 01574c74 Tue Jan 01 2013 09:42:47 -05:00 [wafl.mirror.access.denied:warning] Access to SnapMirror volume 'root_vs1_aggr13' was denied because SnapMirror initialization was not complete (exported Snapshot copy identifier '0' is invalid). 
+0000008a.0008fab1 01574f4e Tue Jan 01 2013 09:44:00 -05:00 [cron_cron:info:25227] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008fab2 01574f4e Tue Jan 01 2013 09:44:00 -05:00 [user:notice] /usr/libexec/save-entropy[25231]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008fab7 015751b0 Tue Jan 01 2013 09:45:00 -05:00 [cron_cron:info:25251] (root) CMD (/usr/libexec/atrun)
+0000008a.0008fae1 01575d5e Tue Jan 01 2013 09:50:00 -05:00 [cron_cron:info:25343] (root) CMD (/usr/libexec/atrun)
+0000008a.0008fb03 01576917 Tue Jan 01 2013 09:55:00 -05:00 [cron_cron:info:25368] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008fb04 01576917 Tue Jan 01 2013 09:55:00 -05:00 [cron_cron:info:25369] (root) CMD (/usr/libexec/atrun)
+0000008a.0008fb05 01576917 Tue Jan 01 2013 09:55:00 -05:00 [user:notice] /usr/libexec/save-entropy[25374]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008fb0e 01576a06 Tue Jan 01 2013 09:55:24 -05:00 [Nblade.invTcpRecordMarker:error] Invalid TCP record marker received from remote IP address 172.17.6.51 on local port 2049. Invalid reason is TCP_FRAGMENT, invalid record marker is 1357440838. 
+0000008a.0008fb20 015774cf Tue Jan 01 2013 10:00:00 -05:00 [kern.uptime.filer:info]  10:00am up 26 days,  1:13 18355899 NFS ops, 286068 CIFS ops, 0 HTTP ops, 0 FCP ops, 0 iSCSI ops  
+0000008a.0008fb21 015774cf Tue Jan 01 2013 10:00:00 -05:00 [cron_cron:info:25467] (root) CMD (/etc/netapp_newsyslog)
+0000008a.0008fb22 015774cf Tue Jan 01 2013 10:00:00 -05:00 [cron_cron:info:25468] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008fb23 015774cf Tue Jan 01 2013 10:00:00 -05:00 [cron_cron:info:25469] (root) CMD (/usr/libexec/atrun)
+0000008a.0008fb24 015774cf Tue Jan 01 2013 10:00:00 -05:00 [user:notice] /usr/libexec/save-entropy[25475]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008fb41 0157809f Tue Jan 01 2013 10:05:00 -05:00 [cron_cron:info:25623] (root) CMD (/usr/libexec/atrun)
+0000008a.0008fba4 01578b64 Tue Jan 01 2013 10:09:38 -05:00 [Nblade.invTcpRecordMarker:error] Invalid TCP record marker received from remote IP address 172.17.6.51 on local port 2049. Invalid reason is TCP_FRAGMENT, invalid record marker is 1357703309. 
+0000008a.0008fba5 01578c3f Tue Jan 01 2013 10:10:00 -05:00 [cron_cron:info:25677] (root) CMD (/usr/libexec/atrun)
+0000008a.0008fbb4 01578e9c Tue Jan 01 2013 10:11:00 -05:00 [cron_cron:info:25702] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008fbb5 01578e9d Tue Jan 01 2013 10:11:00 -05:00 [user:notice] /usr/libexec/save-entropy[25706]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008fbda 015797f7 Tue Jan 01 2013 10:15:00 -05:00 [cron_cron:info:25872] (root) CMD (/usr/libexec/atrun)
+0000008a.0008fbf9 01579a28 Tue Jan 01 2013 10:15:56 -05:00 [mgmtgwd.filereplication.publish.success:info] Successfully published '/mroot/etc/backups/config/stealth13.8hour.2013-01-01.10_15_00.7z' as package 'stealth13.8hour.2013-01-01.10_15_00.7z:0'. 
+0000008a.0008fc27 0157a3af Tue Jan 01 2013 10:20:00 -05:00 [cron_cron:info:26614] (root) CMD (/usr/libexec/atrun)
+0000008a.0008fc36 0157a85f Tue Jan 01 2013 10:22:00 -05:00 [cron_cron:info:26653] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008fc37 0157a85f Tue Jan 01 2013 10:22:00 -05:00 [user:notice] /usr/libexec/save-entropy[26657]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008fc44 0157ad39 Tue Jan 01 2013 10:24:04 -05:00 [mgmtgwd.filereplication.subscribe.success:info] Subscription of package 'stealth7.8hour.2013-01-01.10_15_00.7z:latest' for 'extraction to /mroot/etc/backups/.tmp/.tmp.bk.stealth.8hour.886796.1357053300/stealth7' was successful. 
+0000008a.0008fc48 0157ad64 Tue Jan 01 2013 10:24:09 -05:00 [mgmtgwd.filereplication.subscribe.success:info] Subscription of package 'stealth8.8hour.2013-01-01.10_15_00.7z:latest' for 'extraction to /mroot/etc/backups/.tmp/.tmp.bk.stealth.8hour.886796.1357053300/stealth8' was successful. 
+0000008a.0008fc49 0157ad8e Tue Jan 01 2013 10:24:13 -05:00 [mgmtgwd.filereplication.subscribe.success:info] Subscription of package 'stealth12.8hour.2013-01-01.10_15_00.7z:latest' for 'extraction to /mroot/etc/backups/.tmp/.tmp.bk.stealth.8hour.886796.1357053300/stealth12' was successful. 
+0000008a.0008fc4a 0157adb6 Tue Jan 01 2013 10:24:17 -05:00 [mgmtgwd.filereplication.subscribe.success:info] Subscription of package 'stealth14.8hour.2013-01-01.10_15_00.7z:latest' for 'extraction to /mroot/etc/backups/.tmp/.tmp.bk.stealth.8hour.886796.1357053300/stealth14' was successful. 
+0000008a.0008fc4b 0157adc3 Tue Jan 01 2013 10:24:18 -05:00 [mgmtgwd.filereplication.subscribe.success:info] Subscription of package 'stealth13.8hour.2013-01-01.10_15_00.7z:latest' for 'extraction to /mroot/etc/backups/.tmp/.tmp.bk.stealth.8hour.886796.1357053300/stealth13' was successful. 
+0000008a.0008fc4c 0157ae00 Tue Jan 01 2013 10:24:24 -05:00 [mgmtgwd.filereplication.subscribe.success:info] Subscription of package 'stealth17.8hour.2013-01-01.10_15_00.7z:latest' for 'extraction to /mroot/etc/backups/.tmp/.tmp.bk.stealth.8hour.886796.1357053300/stealth17' was successful. 
+0000008a.0008fc4d 0157ae35 Tue Jan 01 2013 10:24:30 -05:00 [mgmtgwd.filereplication.subscribe.success:info] Subscription of package 'stealth18.8hour.2013-01-01.10_15_00.7z:latest' for 'extraction to /mroot/etc/backups/.tmp/.tmp.bk.stealth.8hour.886796.1357053300/stealth18' was successful. 
+0000008a.0008fc4e 0157ae67 Tue Jan 01 2013 10:24:34 -05:00 [mgmtgwd.filereplication.subscribe.success:info] Subscription of package 'stealth11.8hour.2013-01-01.10_15_00.7z:latest' for 'extraction to /mroot/etc/backups/.tmp/.tmp.bk.stealth.8hour.886796.1357053300/stealth11' was successful. 
+0000008a.0008fc4f 0157ae95 Tue Jan 01 2013 10:24:39 -05:00 [mgmtgwd.filereplication.subscribe.success:info] Subscription of package 'stealth15.8hour.2013-01-01.10_15_00.7z:latest' for 'extraction to /mroot/etc/backups/.tmp/.tmp.bk.stealth.8hour.886796.1357053300/stealth15' was successful. 
+0000008a.0008fc50 0157aebc Tue Jan 01 2013 10:24:43 -05:00 [mgmtgwd.filereplication.subscribe.success:info] Subscription of package 'stealth5.8hour.2013-01-01.10_15_00.7z:latest' for 'extraction to /mroot/etc/backups/.tmp/.tmp.bk.stealth.8hour.886796.1357053300/stealth5' was successful. 
+0000008a.0008fc51 0157aee3 Tue Jan 01 2013 10:24:47 -05:00 [mgmtgwd.filereplication.subscribe.success:info] Subscription of package 'stealth6.8hour.2013-01-01.10_15_00.7z:latest' for 'extraction to /mroot/etc/backups/.tmp/.tmp.bk.stealth.8hour.886796.1357053300/stealth6' was successful. 
+0000008a.0008fc52 0157af10 Tue Jan 01 2013 10:24:51 -05:00 [mgmtgwd.filereplication.subscribe.success:info] Subscription of package 'stealth16.8hour.2013-01-01.10_15_00.7z:latest' for 'extraction to /mroot/etc/backups/.tmp/.tmp.bk.stealth.8hour.886796.1357053300/stealth16' was successful. 
+0000008a.0008fc53 0157af6b Tue Jan 01 2013 10:25:00 -05:00 [cron_cron:info:26734] (root) CMD (/usr/libexec/atrun)
+0000008a.0008fc82 0157ba8f Tue Jan 01 2013 10:29:45 -05:00 [mgmtgwd.filereplication.publish.success:info] Successfully published '/mroot/etc/backups/config/stealth.8hour.2013-01-01.10_15_00.7z' as package 'stealth.8hour.2013-01-01.10_15_00.7z:0'. 
+0000008a.0008fc83 0157ba8f Tue Jan 01 2013 10:29:45 -05:00 [mgmtgwd.configbr.backupCompleted:notice] Scheduled configuration backup stealth.8hour.2013-01-01.10_15_00.7z was created successfully. 
+0000008a.0008fc8a 0157bb20 Tue Jan 01 2013 10:30:00 -05:00 [cron_cron:info:26958] (root) CMD (/usr/libexec/atrun)
+0000008a.0008fc90 0157bb95 Tue Jan 01 2013 10:30:12 -05:00 [mgmtgwd.filereplication.dist:info] The file replication service successfully distributed package 'stealth.8hour.2013-01-01.10_15_00.7z:0' to '10.98.24.160'. 
+0000008a.0008fca2 0157bcaa Tue Jan 01 2013 10:30:40 -05:00 [mgmtgwd.filereplication.dist:info] The file replication service successfully distributed package 'stealth.8hour.2013-01-01.10_15_00.7z:0' to '10.98.24.152'. 
+0000008a.0008fcac 0157bda8 Tue Jan 01 2013 10:31:05 -05:00 [mgmtgwd.filereplication.dist:info] The file replication service successfully distributed package 'stealth.8hour.2013-01-01.10_15_00.7z:0' to '10.98.24.164'. 
+0000008a.0008fcb3 0157c02c Tue Jan 01 2013 10:32:09 -05:00 [mgmtgwd.filereplication.dist:info] The file replication service successfully distributed package 'stealth.8hour.2013-01-01.10_15_00.7z:0' to '10.98.24.174'. 
+0000008a.0008fcbb 0157c228 Tue Jan 01 2013 10:33:00 -05:00 [cron_cron:info:26990] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008fcbc 0157c228 Tue Jan 01 2013 10:33:00 -05:00 [user:notice] /usr/libexec/save-entropy[26994]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008fcc3 0157c6d8 Tue Jan 01 2013 10:35:00 -05:00 [cron_cron:info:27029] (root) CMD (/usr/libexec/atrun)
+0000008a.0008fcda 0157d290 Tue Jan 01 2013 10:40:00 -05:00 [cron_cron:info:27113] (root) CMD (/usr/libexec/atrun)
+0000008a.0008fcdd 0157d2c9 Tue Jan 01 2013 10:40:06 -05:00 [ntp_ntpd:notice:2178] kernel time sync enabled 6001
+0000008a.0008fce7 0157d6e9 Tue Jan 01 2013 10:41:52 -05:00 [wafl.mirror.access.denied:warning] Access to SnapMirror volume 'root_vs1_aggr13' was denied because SnapMirror initialization was not complete (exported Snapshot copy identifier '0' is invalid). 
+0000008a.0008fcf0 0157dbf0 Tue Jan 01 2013 10:44:00 -05:00 [cron_cron:info:27126] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008fcf1 0157dbf0 Tue Jan 01 2013 10:44:00 -05:00 [user:notice] /usr/libexec/save-entropy[27130]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008fcf9 0157de55 Tue Jan 01 2013 10:45:00 -05:00 [cron_cron:info:27153] (root) CMD (/usr/libexec/atrun)
+0000008a.0008fd1e 0157ea01 Tue Jan 01 2013 10:50:00 -05:00 [cron_cron:info:27245] (root) CMD (/usr/libexec/atrun)
+0000008a.0008fd40 0157f5b9 Tue Jan 01 2013 10:55:00 -05:00 [cron_cron:info:27294] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008fd41 0157f5b9 Tue Jan 01 2013 10:55:00 -05:00 [cron_cron:info:27295] (root) CMD (/usr/libexec/atrun)
+0000008a.0008fd42 0157f5b9 Tue Jan 01 2013 10:55:00 -05:00 [user:notice] /usr/libexec/save-entropy[27300]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008fd4f 0157fac9 Tue Jan 01 2013 10:57:10 -05:00 [ntp_ntpd:info:2178] synchronized to 10.98.17.43, stratum 2
+0000008a.0008fd50 0157fac9 Tue Jan 01 2013 10:57:10 -05:00 [ntp_ntpd:notice:2178] kernel time sync enabled 2001
+0000008a.0008fd58 01580171 Tue Jan 01 2013 11:00:00 -05:00 [kern.uptime.filer:info]  11:00am up 26 days,  2:13 18356654 NFS ops, 286102 CIFS ops, 0 HTTP ops, 0 FCP ops, 0 iSCSI ops  
+0000008a.0008fd59 01580171 Tue Jan 01 2013 11:00:00 -05:00 [cron_cron:info:27371] (root) CMD (/etc/netapp_newsyslog)
+0000008a.0008fd5a 01580171 Tue Jan 01 2013 11:00:00 -05:00 [cron_cron:info:27372] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008fd5b 01580171 Tue Jan 01 2013 11:00:00 -05:00 [cron_cron:info:27373] (root) CMD (/usr/libexec/atrun)
+0000008a.0008fd5c 01580171 Tue Jan 01 2013 11:00:00 -05:00 [user:notice] /usr/libexec/save-entropy[27379]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008fd7e 01580d3f Tue Jan 01 2013 11:05:00 -05:00 [cron_cron:info:27542] (root) CMD (/usr/libexec/atrun)
+0000008a.0008fdf3 015818e1 Tue Jan 01 2013 11:10:00 -05:00 [cron_cron:info:27592] (root) CMD (/usr/libexec/atrun)
+0000008a.0008fdfa 01581b39 Tue Jan 01 2013 11:11:00 -05:00 [cron_cron:info:27612] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008fdfb 01581b39 Tue Jan 01 2013 11:11:00 -05:00 [user:notice] /usr/libexec/save-entropy[27616]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008fe13 01582499 Tue Jan 01 2013 11:15:00 -05:00 [cron_cron:info:27691] (root) CMD (/usr/libexec/atrun)
+0000008a.0008fe35 01583051 Tue Jan 01 2013 11:20:00 -05:00 [cron_cron:info:27733] (root) CMD (/usr/libexec/atrun)
+0000008a.0008fe48 01583501 Tue Jan 01 2013 11:22:00 -05:00 [cron_cron:info:27768] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008fe49 01583501 Tue Jan 01 2013 11:22:00 -05:00 [user:notice] /usr/libexec/save-entropy[27772]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008fe58 01583c09 Tue Jan 01 2013 11:25:00 -05:00 [cron_cron:info:27830] (root) CMD (/usr/libexec/atrun)
+0000008a.0008fe7a 015847c2 Tue Jan 01 2013 11:30:00 -05:00 [cron_cron:info:27891] (root) CMD (/usr/libexec/atrun)
+0000008a.0008fe97 01584eca Tue Jan 01 2013 11:33:00 -05:00 [cron_cron:info:27916] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008fe98 01584eca Tue Jan 01 2013 11:33:00 -05:00 [user:notice] /usr/libexec/save-entropy[27920]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008fe9d 0158537a Tue Jan 01 2013 11:35:00 -05:00 [cron_cron:info:27955] (root) CMD (/usr/libexec/atrun)
+0000008a.0008feb2 01585ee6 Tue Jan 01 2013 11:39:53 -05:00 [ntp_ntpd:info:2178] synchronized to 10.98.18.43, stratum 2
+0000008a.0008feb3 01585ee6 Tue Jan 01 2013 11:39:53 -05:00 [ntp_ntpd:notice:2178] kernel time sync enabled 6001
+0000008a.0008feb4 01585f32 Tue Jan 01 2013 11:40:00 -05:00 [cron_cron:info:28053] (root) CMD (/usr/libexec/atrun)
+0000008a.0008fec4 015866ca Tue Jan 01 2013 11:43:15 -05:00 [wafl.mirror.access.denied:warning] Access to SnapMirror volume 'root_vs1_aggr13' was denied because SnapMirror initialization was not complete (exported Snapshot copy identifier '0' is invalid). 
+0000008a.0008fec9 01586892 Tue Jan 01 2013 11:44:00 -05:00 [cron_cron:info:28069] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008feca 01586892 Tue Jan 01 2013 11:44:01 -05:00 [user:notice] /usr/libexec/save-entropy[28073]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008fecb 01586aed Tue Jan 01 2013 11:45:00 -05:00 [cron_cron:info:28076] (root) CMD (/usr/libexec/atrun)
+0000008a.0008fefa 01587698 Tue Jan 01 2013 11:50:00 -05:00 [cron_cron:info:28173] (root) CMD (/usr/libexec/atrun)
+0000008a.0008ff1c 01588250 Tue Jan 01 2013 11:55:00 -05:00 [cron_cron:info:28232] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008ff1d 01588250 Tue Jan 01 2013 11:55:00 -05:00 [cron_cron:info:28231] (root) CMD (/usr/libexec/atrun)
+0000008a.0008ff1e 01588250 Tue Jan 01 2013 11:55:00 -05:00 [user:notice] /usr/libexec/save-entropy[28237]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008ff33 01588e0a Tue Jan 01 2013 12:00:00 -05:00 [cron_cron:info:28293] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008ff34 01588e0a Tue Jan 01 2013 12:00:00 -05:00 [cron_cron:info:28294] (root) CMD (/usr/libexec/atrun)
+0000008a.0008ff35 01588e0a Tue Jan 01 2013 12:00:00 -05:00 [cron_cron:info:28292] (root) CMD (/etc/netapp_newsyslog)
+0000008a.0008ff36 01588e0a Tue Jan 01 2013 12:00:00 -05:00 [user:notice] /usr/libexec/save-entropy[28300]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008ff37 01588e0a Tue Jan 01 2013 12:00:00 -05:00 [kern.uptime.filer:info]  12:00pm up 26 days,  3:13 18357436 NFS ops, 286136 CIFS ops, 0 HTTP ops, 0 FCP ops, 0 iSCSI ops  
+0000008a.0008ff5e 015899db Tue Jan 01 2013 12:05:00 -05:00 [cron_cron:info:28477] (root) CMD (/usr/libexec/atrun)
+0000008a.0008ff91 01589ae6 Tue Jan 01 2013 12:05:29 -05:00 [ntp_ntpd:info:2178] synchronized to 10.98.17.43, stratum 2
+0000008a.0008ff92 01589ae6 Tue Jan 01 2013 12:05:29 -05:00 [ntp_ntpd:notice:2178] kernel time sync enabled 2001
+0000008a.0008ffc9 0158a579 Tue Jan 01 2013 12:10:00 -05:00 [cron_cron:info:28507] (root) CMD (/usr/libexec/atrun)
+0000008a.0008ffce 0158a7d1 Tue Jan 01 2013 12:11:00 -05:00 [cron_cron:info:28525] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0008ffcf 0158a7d1 Tue Jan 01 2013 12:11:00 -05:00 [user:notice] /usr/libexec/save-entropy[28529]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0008ffe7 0158b131 Tue Jan 01 2013 12:15:00 -05:00 [cron_cron:info:28605] (root) CMD (/usr/libexec/atrun)
+0000008a.00090005 0158bce9 Tue Jan 01 2013 12:20:00 -05:00 [cron_cron:info:28662] (root) CMD (/usr/libexec/atrun)
+0000008a.0009000d 0158c199 Tue Jan 01 2013 12:22:00 -05:00 [cron_cron:info:28675] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0009000e 0158c199 Tue Jan 01 2013 12:22:00 -05:00 [user:notice] /usr/libexec/save-entropy[28679]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0009001d 0158c8a1 Tue Jan 01 2013 12:25:00 -05:00 [cron_cron:info:28736] (root) CMD (/usr/libexec/atrun)
+0000008a.00090040 0158d459 Tue Jan 01 2013 12:30:00 -05:00 [cron_cron:info:28817] (root) CMD (/usr/libexec/atrun)
+0000008a.00090052 0158db68 Tue Jan 01 2013 12:33:00 -05:00 [cron_cron:info:28830] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.00090053 0158db68 Tue Jan 01 2013 12:33:00 -05:00 [user:notice] /usr/libexec/save-entropy[28834]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0009005e 0158e011 Tue Jan 01 2013 12:35:00 -05:00 [cron_cron:info:28861] (root) CMD (/usr/libexec/atrun)
+0000008a.00090085 0158ebc9 Tue Jan 01 2013 12:40:00 -05:00 [cron_cron:info:28957] (root) CMD (/usr/libexec/atrun)
+0000008a.00090099 0158f38f Tue Jan 01 2013 12:43:19 -05:00 [wafl.mirror.access.denied:warning] Access to SnapMirror volume 'root_vs1_aggr13' was denied because SnapMirror initialization was not complete (exported Snapshot copy identifier '0' is invalid). 
+0000008a.0009009c 0158f529 Tue Jan 01 2013 12:44:00 -05:00 [cron_cron:info:28996] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0009009d 0158f529 Tue Jan 01 2013 12:44:00 -05:00 [user:notice] /usr/libexec/save-entropy[29000]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.000900a2 0158f78b Tue Jan 01 2013 12:45:00 -05:00 [cron_cron:info:29005] (root) CMD (/usr/libexec/atrun)
+0000008a.000900c2 0158ff0e Tue Jan 01 2013 12:48:13 -05:00 [ntp_ntpd:info:2178] synchronized to 10.98.18.43, stratum 2
+0000008a.000900c3 0158ff0e Tue Jan 01 2013 12:48:13 -05:00 [ntp_ntpd:notice:2178] kernel time sync enabled 6001
+0000008a.000900c5 01590008 Tue Jan 01 2013 12:48:38 -05:00 [ntp_ntpd:info:2178] synchronized to 10.98.17.43, stratum 2
+0000008a.000900c6 01590008 Tue Jan 01 2013 12:48:38 -05:00 [ntp_ntpd:notice:2178] kernel time sync enabled 2001
+0000008a.000900cb 01590339 Tue Jan 01 2013 12:50:00 -05:00 [cron_cron:info:29078] (root) CMD (/usr/libexec/atrun)
+0000008a.000900f3 01590f03 Tue Jan 01 2013 12:55:00 -05:00 [cron_cron:info:29156] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.000900f4 01590f03 Tue Jan 01 2013 12:55:00 -05:00 [cron_cron:info:29157] (root) CMD (/usr/libexec/atrun)
+0000008a.000900f5 01590f03 Tue Jan 01 2013 12:55:00 -05:00 [user:notice] /usr/libexec/save-entropy[29163]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.00090111 01591aaa Tue Jan 01 2013 13:00:00 -05:00 [kern.uptime.filer:info]   1:00pm up 26 days,  4:13 18358064 NFS ops, 286170 CIFS ops, 0 HTTP ops, 0 FCP ops, 0 iSCSI ops  
+0000008a.00090112 01591aaa Tue Jan 01 2013 13:00:00 -05:00 [cron_cron:info:29206] (root) CMD (/etc/netapp_newsyslog)
+0000008a.00090113 01591aaa Tue Jan 01 2013 13:00:00 -05:00 [cron_cron:info:29207] (root) CMD (/usr/libexec/atrun)
+0000008a.00090114 01591aaa Tue Jan 01 2013 13:00:00 -05:00 [cron_cron:info:29208] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.00090115 01591aaa Tue Jan 01 2013 13:00:00 -05:00 [user:notice] /usr/libexec/save-entropy[29214]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.00090135 01592699 Tue Jan 01 2013 13:05:00 -05:00 [cron_cron:info:29385] (root) CMD (/usr/libexec/atrun)
+0000008a.000902a5 0159321a Tue Jan 01 2013 13:10:00 -05:00 [cron_cron:info:29420] (root) CMD (/usr/libexec/atrun)
+0000008a.000902b1 01593475 Tue Jan 01 2013 13:11:00 -05:00 [cron_cron:info:29439] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.000902b2 01593475 Tue Jan 01 2013 13:11:00 -05:00 [user:notice] /usr/libexec/save-entropy[29443]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.000902cc 01593dd2 Tue Jan 01 2013 13:15:00 -05:00 [cron_cron:info:29519] (root) CMD (/usr/libexec/atrun)
+0000008a.000902ee 0159498a Tue Jan 01 2013 13:20:00 -05:00 [cron_cron:info:29592] (root) CMD (/usr/libexec/atrun)
+0000008a.000902f8 01594e3a Tue Jan 01 2013 13:22:00 -05:00 [cron_cron:info:29601] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.000902f9 01594e3a Tue Jan 01 2013 13:22:00 -05:00 [user:notice] /usr/libexec/save-entropy[29605]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.00090312 01595542 Tue Jan 01 2013 13:25:00 -05:00 [cron_cron:info:29661] (root) CMD (/usr/libexec/atrun)
+0000008a.00090335 015960fa Tue Jan 01 2013 13:30:00 -05:00 [cron_cron:info:29758] (root) CMD (/usr/libexec/atrun)
+0000008a.0009034a 01596803 Tue Jan 01 2013 13:33:00 -05:00 [cron_cron:info:29766] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0009034b 01596803 Tue Jan 01 2013 13:33:00 -05:00 [user:notice] /usr/libexec/save-entropy[29770]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.00090351 01596cb3 Tue Jan 01 2013 13:35:00 -05:00 [cron_cron:info:29779] (root) CMD (/usr/libexec/atrun)
+0000008a.0009036b 015977cb Tue Jan 01 2013 13:39:44 -05:00 [ntp_ntpd:info:2178] synchronized to 10.98.18.43, stratum 2
+0000008a.0009036d 0159782f Tue Jan 01 2013 13:39:54 -05:00 [ntp_ntpd:info:2178] synchronized to 10.98.17.43, stratum 2
+0000008a.0009036e 0159786b Tue Jan 01 2013 13:40:00 -05:00 [cron_cron:info:29872] (root) CMD (/usr/libexec/atrun)
+0000008a.00090379 01597cce Tue Jan 01 2013 13:41:52 -05:00 [wafl.mirror.access.denied:warning] Access to SnapMirror volume 'root_vs1_aggr13' was denied because SnapMirror initialization was not complete (exported Snapshot copy identifier '0' is invalid). 
+0000008a.00090382 015981d3 Tue Jan 01 2013 13:44:00 -05:00 [cron_cron:info:29925] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.00090383 015981d3 Tue Jan 01 2013 13:44:00 -05:00 [user:notice] /usr/libexec/save-entropy[29929]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.00090386 01598430 Tue Jan 01 2013 13:45:00 -05:00 [cron_cron:info:29935] (root) CMD (/usr/libexec/atrun)
+0000008a.000903b2 01598fdb Tue Jan 01 2013 13:50:00 -05:00 [cron_cron:info:29995] (root) CMD (/usr/libexec/atrun)
+0000008a.000903d7 01599b93 Tue Jan 01 2013 13:55:00 -05:00 [cron_cron:info:30089] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.000903d8 01599b93 Tue Jan 01 2013 13:55:00 -05:00 [cron_cron:info:30090] (root) CMD (/usr/libexec/atrun)
+0000008a.000903d9 01599b93 Tue Jan 01 2013 13:55:00 -05:00 [user:notice] /usr/libexec/save-entropy[30095]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.000903fd 0159a74b Tue Jan 01 2013 14:00:00 -05:00 [kern.uptime.filer:info]   2:00pm up 26 days,  5:13 18358838 NFS ops, 286204 CIFS ops, 0 HTTP ops, 0 FCP ops, 0 iSCSI ops  
+0000008a.000903fe 0159a74b Tue Jan 01 2013 14:00:00 -05:00 [cron_cron:info:30132] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.000903ff 0159a74b Tue Jan 01 2013 14:00:00 -05:00 [cron_cron:info:30133] (root) CMD (/usr/libexec/atrun)
+0000008a.00090400 0159a74b Tue Jan 01 2013 14:00:00 -05:00 [cron_cron:info:30131] (root) CMD (/etc/netapp_newsyslog)
+0000008a.00090401 0159a74b Tue Jan 01 2013 14:00:00 -05:00 [user:notice] /usr/libexec/save-entropy[30139]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0009041e 0159b342 Tue Jan 01 2013 14:05:00 -05:00 [cron_cron:info:30309] (root) CMD (/usr/libexec/atrun)
+0000008a.00090484 0159bebc Tue Jan 01 2013 14:10:00 -05:00 [cron_cron:info:30360] (root) CMD (/usr/libexec/atrun)
+0000008a.00090490 0159c114 Tue Jan 01 2013 14:11:00 -05:00 [cron_cron:info:30369] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.00090491 0159c114 Tue Jan 01 2013 14:11:00 -05:00 [user:notice] /usr/libexec/save-entropy[30373]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.000904af 0159ca74 Tue Jan 01 2013 14:15:00 -05:00 [cron_cron:info:30447] (root) CMD (/usr/libexec/atrun)
+0000008a.000904cb 0159d62c Tue Jan 01 2013 14:20:00 -05:00 [cron_cron:info:30533] (root) CMD (/usr/libexec/atrun)
+0000008a.000904d7 0159dadc Tue Jan 01 2013 14:22:00 -05:00 [cron_cron:info:30542] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.000904d8 0159dadc Tue Jan 01 2013 14:22:00 -05:00 [user:notice] /usr/libexec/save-entropy[30546]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.000904e2 0159e1e4 Tue Jan 01 2013 14:25:00 -05:00 [cron_cron:info:30575] (root) CMD (/usr/libexec/atrun)
+0000008a.00090513 0159ed9c Tue Jan 01 2013 14:30:00 -05:00 [cron_cron:info:30683] (root) CMD (/usr/libexec/atrun)
+0000008a.00090518 0159effd Tue Jan 01 2013 14:31:01 -05:00 [ntp_ntpd:info:2178] synchronized to 10.98.18.43, stratum 2
+0000008a.0009051d 0159f043 Tue Jan 01 2013 14:31:08 -05:00 [ntp_ntpd:info:2178] synchronized to 10.98.17.43, stratum 2
+0000008a.00090525 0159f4a4 Tue Jan 01 2013 14:33:00 -05:00 [cron_cron:info:30717] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.00090526 0159f4a4 Tue Jan 01 2013 14:33:00 -05:00 [user:notice] /usr/libexec/save-entropy[30721]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0009052e 0159f954 Tue Jan 01 2013 14:35:00 -05:00 [cron_cron:info:30727] (root) CMD (/usr/libexec/atrun)
+0000008a.00090543 015a050c Tue Jan 01 2013 14:40:00 -05:00 [cron_cron:info:30805] (root) CMD (/usr/libexec/atrun)
+0000008a.00090557 015a0c8f Tue Jan 01 2013 14:43:12 -05:00 [wafl.mirror.access.denied:warning] Access to SnapMirror volume 'root_vs1_aggr13' was denied because SnapMirror initialization was not complete (exported Snapshot copy identifier '0' is invalid). 
+0000008a.00090559 015a0e6c Tue Jan 01 2013 14:44:00 -05:00 [cron_cron:info:30876] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0009055a 015a0e6c Tue Jan 01 2013 14:44:00 -05:00 [user:notice] /usr/libexec/save-entropy[30880]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.00090562 015a10cd Tue Jan 01 2013 14:45:00 -05:00 [cron_cron:info:30887] (root) CMD (/usr/libexec/atrun)
+0000008a.0009058a 015a1c80 Tue Jan 01 2013 14:50:00 -05:00 [cron_cron:info:30932] (root) CMD (/usr/libexec/atrun)
+0000008a.000905ab 015a2835 Tue Jan 01 2013 14:55:00 -05:00 [cron_cron:info:31022] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.000905ac 015a2835 Tue Jan 01 2013 14:55:00 -05:00 [cron_cron:info:31023] (root) CMD (/usr/libexec/atrun)
+0000008a.000905ad 015a2835 Tue Jan 01 2013 14:55:00 -05:00 [user:notice] /usr/libexec/save-entropy[31028]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.000905cd 015a33ed Tue Jan 01 2013 15:00:00 -05:00 [kern.uptime.filer:info]   3:00pm up 26 days,  6:13 18359555 NFS ops, 286274 CIFS ops, 0 HTTP ops, 0 FCP ops, 0 iSCSI ops  
+0000008a.000905ce 015a33ed Tue Jan 01 2013 15:00:00 -05:00 [cron_cron:info:31069] (root) CMD (/etc/netapp_newsyslog)
+0000008a.000905cf 015a33ed Tue Jan 01 2013 15:00:00 -05:00 [cron_cron:info:31071] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.000905d0 015a33ed Tue Jan 01 2013 15:00:00 -05:00 [cron_cron:info:31070] (root) CMD (/usr/libexec/atrun)
+0000008a.000905d1 015a33ed Tue Jan 01 2013 15:00:00 -05:00 [user:notice] /usr/libexec/save-entropy[31077]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.000905f5 015a3fc7 Tue Jan 01 2013 15:05:00 -05:00 [cron_cron:info:31250] (root) CMD (/usr/libexec/atrun)
+0000008a.0009066b 015a4b5d Tue Jan 01 2013 15:10:00 -05:00 [cron_cron:info:31319] (root) CMD (/usr/libexec/atrun)
+0000008a.0009066f 015a4db5 Tue Jan 01 2013 15:11:00 -05:00 [cron_cron:info:31322] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.00090670 015a4db5 Tue Jan 01 2013 15:11:00 -05:00 [user:notice] /usr/libexec/save-entropy[31326]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.00090694 015a5715 Tue Jan 01 2013 15:15:00 -05:00 [cron_cron:info:31391] (root) CMD (/usr/libexec/atrun)
+0000008a.000906b3 015a62cd Tue Jan 01 2013 15:20:00 -05:00 [cron_cron:info:31489] (root) CMD (/usr/libexec/atrun)
+0000008a.000906bf 015a677d Tue Jan 01 2013 15:22:00 -05:00 [cron_cron:info:31497] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.000906c0 015a677d Tue Jan 01 2013 15:22:00 -05:00 [user:notice] /usr/libexec/save-entropy[31501]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.000906cd 015a6e85 Tue Jan 01 2013 15:25:00 -05:00 [cron_cron:info:31514] (root) CMD (/usr/libexec/atrun)
+0000008a.000906ee 015a7a3d Tue Jan 01 2013 15:30:00 -05:00 [cron_cron:info:31600] (root) CMD (/usr/libexec/atrun)
+0000008a.00090706 015a8146 Tue Jan 01 2013 15:33:00 -05:00 [cron_cron:info:31656] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.00090707 015a8146 Tue Jan 01 2013 15:33:00 -05:00 [user:notice] /usr/libexec/save-entropy[31660]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0009070f 015a85f6 Tue Jan 01 2013 15:35:00 -05:00 [cron_cron:info:31665] (root) CMD (/usr/libexec/atrun)
+0000008a.00090724 015a91ae Tue Jan 01 2013 15:40:00 -05:00 [cron_cron:info:31722] (root) CMD (/usr/libexec/atrun)
+0000008a.00090742 015a9aab Tue Jan 01 2013 15:43:50 -05:00 [wafl.mirror.access.denied:warning] Access to SnapMirror volume 'root_vs1_aggr13' was denied because SnapMirror initialization was not complete (exported Snapshot copy identifier '0' is invalid). 
+0000008a.00090743 015a9b0e Tue Jan 01 2013 15:44:00 -05:00 [cron_cron:info:31796] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.00090744 015a9b0e Tue Jan 01 2013 15:44:00 -05:00 [user:notice] /usr/libexec/save-entropy[31800]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0009074a 015a9d6c Tue Jan 01 2013 15:45:00 -05:00 [cron_cron:info:31818] (root) CMD (/usr/libexec/atrun)
+0000008a.0009076e 015aa91e Tue Jan 01 2013 15:50:00 -05:00 [cron_cron:info:31847] (root) CMD (/usr/libexec/atrun)
+0000008a.0009078c 015ab4d6 Tue Jan 01 2013 15:55:00 -05:00 [cron_cron:info:31942] (root) CMD (/usr/libexec/atrun)
+0000008a.0009078d 015ab4d6 Tue Jan 01 2013 15:55:00 -05:00 [cron_cron:info:31941] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0009078e 015ab4d6 Tue Jan 01 2013 15:55:00 -05:00 [user:notice] /usr/libexec/save-entropy[31947]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.00090796 015ab770 Tue Jan 01 2013 15:56:07 -05:00 [ntp_ntpd:notice:2178] kernel time sync enabled 6001
+0000008a.000907a4 015ac08e Tue Jan 01 2013 16:00:00 -05:00 [kern.uptime.filer:info]   4:00pm up 26 days,  7:13 18360256 NFS ops, 286308 CIFS ops, 0 HTTP ops, 0 FCP ops, 0 iSCSI ops  
+0000008a.000907a5 015ac08e Tue Jan 01 2013 16:00:00 -05:00 [cron_cron:info:31993] (root) CMD (/etc/netapp_newsyslog)
+0000008a.000907a6 015ac08e Tue Jan 01 2013 16:00:00 -05:00 [cron_cron:info:31995] (root) CMD (/usr/libexec/atrun)
+0000008a.000907a7 015ac08e Tue Jan 01 2013 16:00:00 -05:00 [cron_cron:info:31994] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.000907a8 015ac08e Tue Jan 01 2013 16:00:00 -05:00 [user:notice] /usr/libexec/save-entropy[32001]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.000907ce 015acc73 Tue Jan 01 2013 16:05:00 -05:00 [cron_cron:info:32154] (root) CMD (/usr/libexec/atrun)
+0000008a.00090830 015ad7fe Tue Jan 01 2013 16:10:00 -05:00 [cron_cron:info:32236] (root) CMD (/usr/libexec/atrun)
+0000008a.00090837 015ada57 Tue Jan 01 2013 16:11:00 -05:00 [cron_cron:info:32241] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.00090838 015ada57 Tue Jan 01 2013 16:11:00 -05:00 [user:notice] /usr/libexec/save-entropy[32245]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.00090849 015adf83 Tue Jan 01 2013 16:13:13 -05:00 [ntp_ntpd:notice:2178] kernel time sync enabled 2001
+0000008a.00090852 015ae3b7 Tue Jan 01 2013 16:15:00 -05:00 [cron_cron:info:32282] (root) CMD (/usr/libexec/atrun)
+0000008a.00090871 015aef6f Tue Jan 01 2013 16:20:00 -05:00 [cron_cron:info:32378] (root) CMD (/usr/libexec/atrun)
+0000008a.0009087a 015af41f Tue Jan 01 2013 16:22:01 -05:00 [cron_cron:info:32407] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0009087b 015af41f Tue Jan 01 2013 16:22:01 -05:00 [user:notice] /usr/libexec/save-entropy[32411]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0009088a 015afb1d Tue Jan 01 2013 16:25:00 -05:00 [cron_cron:info:32424] (root) CMD (/usr/libexec/atrun)
+0000008a.000908ae 015b06d5 Tue Jan 01 2013 16:30:00 -05:00 [cron_cron:info:32499] (root) CMD (/usr/libexec/atrun)
+0000008a.000908c1 015b0ddd Tue Jan 01 2013 16:33:00 -05:00 [cron_cron:info:32557] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.000908c2 015b0ddd Tue Jan 01 2013 16:33:00 -05:00 [user:notice] /usr/libexec/save-entropy[32561]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.000908cf 015b128d Tue Jan 01 2013 16:35:00 -05:00 [cron_cron:info:32582] (root) CMD (/usr/libexec/atrun)
+0000008a.000908e4 015b1e45 Tue Jan 01 2013 16:40:00 -05:00 [cron_cron:info:32625] (root) CMD (/usr/libexec/atrun)
+0000008a.000908f5 015b2750 Tue Jan 01 2013 16:43:51 -05:00 [wafl.mirror.access.denied:warning] Access to SnapMirror volume 'root_vs1_aggr13' was denied because SnapMirror initialization was not complete (exported Snapshot copy identifier '0' is invalid). 
+0000008a.000908fb 015b27a5 Tue Jan 01 2013 16:44:00 -05:00 [cron_cron:info:32704] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.000908fc 015b27a5 Tue Jan 01 2013 16:44:00 -05:00 [user:notice] /usr/libexec/save-entropy[32708]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.00090901 015b2a09 Tue Jan 01 2013 16:45:00 -05:00 [cron_cron:info:32730] (root) CMD (/usr/libexec/atrun)
+0000008a.00090925 015b35b5 Tue Jan 01 2013 16:50:00 -05:00 [cron_cron:info:32758] (root) CMD (/usr/libexec/atrun)
+0000008a.0009094d 015b416e Tue Jan 01 2013 16:55:00 -05:00 [cron_cron:info:32852] (root) CMD (/usr/libexec/atrun)
+0000008a.0009094e 015b416e Tue Jan 01 2013 16:55:00 -05:00 [cron_cron:info:32851] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0009094f 015b416e Tue Jan 01 2013 16:55:00 -05:00 [user:notice] /usr/libexec/save-entropy[32857]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.00090962 015b4d28 Tue Jan 01 2013 17:00:00 -05:00 [cron_cron:info:32919] (root) CMD (/etc/netapp_newsyslog)
+0000008a.00090963 015b4d28 Tue Jan 01 2013 17:00:00 -05:00 [cron_cron:info:32921] (root) CMD (/usr/libexec/atrun)
+0000008a.00090964 015b4d28 Tue Jan 01 2013 17:00:00 -05:00 [cron_cron:info:32920] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.00090965 015b4d28 Tue Jan 01 2013 17:00:00 -05:00 [user:notice] /usr/libexec/save-entropy[32927]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.00090966 015b4d28 Tue Jan 01 2013 17:00:00 -05:00 [kern.uptime.filer:info]   5:00pm up 26 days,  8:13 18360947 NFS ops, 286388 CIFS ops, 0 HTTP ops, 0 FCP ops, 0 iSCSI ops  
+0000008a.00090988 015b584b Tue Jan 01 2013 17:04:45 -05:00 [ntp_ntpd:info:2178] synchronized to 10.98.18.43, stratum 2
+0000008a.00090989 015b5887 Tue Jan 01 2013 17:04:51 -05:00 [ntp_ntpd:info:2178] synchronized to 10.98.17.43, stratum 2
+0000008a.0009098c 015b58fc Tue Jan 01 2013 17:05:00 -05:00 [cron_cron:info:33062] (root) CMD (/usr/libexec/atrun)
+0000008a.00090a03 015b6496 Tue Jan 01 2013 17:10:00 -05:00 [cron_cron:info:33165] (root) CMD (/usr/libexec/atrun)
+0000008a.00090a07 015b66ee Tue Jan 01 2013 17:11:00 -05:00 [cron_cron:info:33168] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.00090a08 015b66ee Tue Jan 01 2013 17:11:00 -05:00 [user:notice] /usr/libexec/save-entropy[33172]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.00090a0c 015b674b Tue Jan 01 2013 17:11:09 -05:00 [ntp_ntpd:info:2178] synchronized to 10.98.18.43, stratum 2
+0000008a.00090a2e 015b704e Tue Jan 01 2013 17:15:00 -05:00 [cron_cron:info:33198] (root) CMD (/usr/libexec/atrun)
+0000008a.00090a47 015b7c06 Tue Jan 01 2013 17:20:00 -05:00 [cron_cron:info:33294] (root) CMD (/usr/libexec/atrun)
+0000008a.00090a57 015b80b6 Tue Jan 01 2013 17:22:00 -05:00 [cron_cron:info:33340] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.00090a58 015b80b6 Tue Jan 01 2013 17:22:00 -05:00 [user:notice] /usr/libexec/save-entropy[33344]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.00090a66 015b8554 Tue Jan 01 2013 17:23:58 -05:00 [ntp_ntpd:info:2178] synchronized to 10.98.24.167, stratum 3
+0000008a.00090a67 015b87c4 Tue Jan 01 2013 17:25:00 -05:00 [cron_cron:info:33355] (root) CMD (/usr/libexec/atrun)
+0000008a.00090a7d 015b8a50 Tue Jan 01 2013 17:26:05 -05:00 [ntp_ntpd:info:2178] synchronized to 10.98.17.43, stratum 2
+0000008a.00090a8c 015b9376 Tue Jan 01 2013 17:30:00 -05:00 [cron_cron:info:33417] (root) CMD (/usr/libexec/atrun)
+0000008a.00090aa1 015b9a7f Tue Jan 01 2013 17:33:00 -05:00 [cron_cron:info:33476] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.00090aa2 015b9a7f Tue Jan 01 2013 17:33:00 -05:00 [user:notice] /usr/libexec/save-entropy[33480]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.00090ab0 015b9f2f Tue Jan 01 2013 17:35:00 -05:00 [cron_cron:info:33517] (root) CMD (/usr/libexec/atrun)
+0000008a.00090ac7 015ba67f Tue Jan 01 2013 17:38:07 -05:00 [wafl.mirror.access.denied:warning] Access to SnapMirror volume 'root_vs1_aggr13' was denied because SnapMirror initialization was not complete (exported Snapshot copy identifier '0' is invalid). 
+0000008a.00090ad4 015baae7 Tue Jan 01 2013 17:40:00 -05:00 [cron_cron:info:33554] (root) CMD (/usr/libexec/atrun)
+0000008a.00090ae9 015bb447 Tue Jan 01 2013 17:44:00 -05:00 [cron_cron:info:33629] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.00090aea 015bb447 Tue Jan 01 2013 17:44:00 -05:00 [user:notice] /usr/libexec/save-entropy[33633]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.00090aec 015bb6a9 Tue Jan 01 2013 17:45:00 -05:00 [cron_cron:info:33651] (root) CMD (/usr/libexec/atrun)
+0000008a.00090b12 015bc25e Tue Jan 01 2013 17:50:00 -05:00 [cron_cron:info:33695] (root) CMD (/usr/libexec/atrun)
+0000008a.00090b2c 015bc6ae Tue Jan 01 2013 17:51:51 -05:00 [ntp_ntpd:info:2178] synchronized to 10.98.18.43, stratum 2
+0000008a.00090b30 015bca14 Tue Jan 01 2013 17:53:18 -05:00 [ntp_ntpd:info:2178] synchronized to 10.98.17.43, stratum 2
+0000008a.00090b3d 015bce0f Tue Jan 01 2013 17:55:00 -05:00 [cron_cron:info:33772] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.00090b3e 015bce0f Tue Jan 01 2013 17:55:00 -05:00 [cron_cron:info:33773] (root) CMD (/usr/libexec/atrun)
+0000008a.00090b3f 015bce0f Tue Jan 01 2013 17:55:00 -05:00 [user:notice] /usr/libexec/save-entropy[33778]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.00090b52 015bd9c8 Tue Jan 01 2013 18:00:00 -05:00 [cron_cron:info:33854] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.00090b53 015bd9c8 Tue Jan 01 2013 18:00:00 -05:00 [cron_cron:info:33853] (root) CMD (/etc/netapp_newsyslog)
+0000008a.00090b54 015bd9c8 Tue Jan 01 2013 18:00:00 -05:00 [cron_cron:info:33855] (root) CMD (/usr/libexec/atrun)
+0000008a.00090b55 015bd9c8 Tue Jan 01 2013 18:00:00 -05:00 [user:notice] /usr/libexec/save-entropy[33861]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.00090b56 015bd9c8 Tue Jan 01 2013 18:00:00 -05:00 [kern.uptime.filer:info]   6:00pm up 26 days,  9:13 18361638 NFS ops, 286422 CIFS ops, 0 HTTP ops, 0 FCP ops, 0 iSCSI ops  
+0000008a.00090b6b 015be01c Tue Jan 01 2013 18:02:42 -05:00 [ntp_ntpd:info:2178] synchronized to 10.98.18.43, stratum 2
+0000008a.00090b6c 015be06c Tue Jan 01 2013 18:02:50 -05:00 [ntp_ntpd:info:2178] synchronized to 10.98.17.43, stratum 2
+0000008a.00090b7a 015be5b3 Tue Jan 01 2013 18:05:00 -05:00 [cron_cron:info:33979] (root) CMD (/usr/libexec/atrun)
+0000008a.00090be1 015bf137 Tue Jan 01 2013 18:10:00 -05:00 [cron_cron:info:34071] (root) CMD (/usr/libexec/atrun)
+0000008a.00090bed 015bf390 Tue Jan 01 2013 18:11:00 -05:00 [cron_cron:info:34102] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.00090bee 015bf390 Tue Jan 01 2013 18:11:00 -05:00 [user:notice] /usr/libexec/save-entropy[34106]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.00090c08 015bfcf0 Tue Jan 01 2013 18:15:00 -05:00 [cron_cron:info:34134] (root) CMD (/usr/libexec/atrun)
+0000008a.00090c10 015bff20 Tue Jan 01 2013 18:15:56 -05:00 [mgmtgwd.filereplication.publish.success:info] Successfully published '/mroot/etc/backups/config/stealth13.8hour.2013-01-01.18_15_00.7z' as package 'stealth13.8hour.2013-01-01.18_15_00.7z:0'. 
+0000008a.00090c1e 015c08a8 Tue Jan 01 2013 18:20:00 -05:00 [cron_cron:info:35009] (root) CMD (/usr/libexec/atrun)
+0000008a.00090c2b 015c0d58 Tue Jan 01 2013 18:22:00 -05:00 [cron_cron:info:35049] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.00090c2c 015c0d58 Tue Jan 01 2013 18:22:00 -05:00 [user:notice] /usr/libexec/save-entropy[35053]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.00090c34 015c13fb Tue Jan 01 2013 18:24:50 -05:00 [mgmtgwd.filereplication.dist:info] The file replication service successfully distributed package 'stealth13.8hour.2013-01-01.18_15_00.7z:0' to '10.98.24.150'. 
+0000008a.00090c35 015c1460 Tue Jan 01 2013 18:25:00 -05:00 [cron_cron:info:35084] (root) CMD (/usr/libexec/atrun)
+0000008a.00090c5d 015c2018 Tue Jan 01 2013 18:30:00 -05:00 [cron_cron:info:35427] (root) CMD (/usr/libexec/atrun)
+0000008a.00090c71 015c2269 Tue Jan 01 2013 18:30:59 -05:00 [mgmtgwd.filereplication.subscribe.success:info] Subscription of package 'stealth.8hour.2013-01-01.18_15_00.7z:latest' for 'extraction to /mroot/etc/backups/.tmp/stealth.8hour.2013-01-01.18_15_00.7z' was successful. 
+0000008a.00090c7a 015c2585 Tue Jan 01 2013 18:32:19 -05:00 [ntp_ntpd:info:2178] synchronized to 10.98.18.43, stratum 2
+0000008a.00090c7c 015c2720 Tue Jan 01 2013 18:33:00 -05:00 [cron_cron:info:35496] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.00090c7d 015c2720 Tue Jan 01 2013 18:33:00 -05:00 [user:notice] /usr/libexec/save-entropy[35500]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.00090c82 015c29c7 Tue Jan 01 2013 18:34:08 -05:00 [ntp_ntpd:info:2178] synchronized to 10.98.24.155, stratum 3
+0000008a.00090c86 015c2bd0 Tue Jan 01 2013 18:35:00 -05:00 [cron_cron:info:35536] (root) CMD (/usr/libexec/atrun)
+0000008a.00090c96 015c33ef Tue Jan 01 2013 18:38:28 -05:00 [ntp_ntpd:info:2178] synchronized to 10.98.18.43, stratum 2
+0000008a.00090c9c 015c3788 Tue Jan 01 2013 18:40:00 -05:00 [cron_cron:info:35560] (root) CMD (/usr/libexec/atrun)
+0000008a.00090cb3 015c40e8 Tue Jan 01 2013 18:44:00 -05:00 [cron_cron:info:35634] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.00090cb4 015c40e8 Tue Jan 01 2013 18:44:00 -05:00 [user:notice] /usr/libexec/save-entropy[35638]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.00090cb8 015c41a9 Tue Jan 01 2013 18:44:19 -05:00 [wafl.mirror.access.denied:warning] Access to SnapMirror volume 'root_vs1_aggr13' was denied because SnapMirror initialization was not complete (exported Snapshot copy identifier '0' is invalid). 
+0000008a.00090cba 015c434c Tue Jan 01 2013 18:45:00 -05:00 [cron_cron:info:35659] (root) CMD (/usr/libexec/atrun)
+0000008a.00090ce1 015c4efd Tue Jan 01 2013 18:50:00 -05:00 [cron_cron:info:35718] (root) CMD (/usr/libexec/atrun)
+0000008a.00090d04 015c5ab1 Tue Jan 01 2013 18:55:00 -05:00 [cron_cron:info:35773] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.00090d05 015c5ab1 Tue Jan 01 2013 18:55:00 -05:00 [cron_cron:info:35774] (root) CMD (/usr/libexec/atrun)
+0000008a.00090d06 015c5ab1 Tue Jan 01 2013 18:55:00 -05:00 [user:notice] /usr/libexec/save-entropy[35779]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.00090d20 015c6669 Tue Jan 01 2013 19:00:00 -05:00 [kern.uptime.filer:info]   7:00pm up 26 days, 10:13 18362342 NFS ops, 286456 CIFS ops, 0 HTTP ops, 0 FCP ops, 0 iSCSI ops  
+0000008a.00090d21 015c6669 Tue Jan 01 2013 19:00:00 -05:00 [cron_cron:info:35877] (root) CMD (/etc/netapp_newsyslog)
+0000008a.00090d22 015c6669 Tue Jan 01 2013 19:00:00 -05:00 [cron_cron:info:35876] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.00090d23 015c6669 Tue Jan 01 2013 19:00:00 -05:00 [cron_cron:info:35878] (root) CMD (/usr/libexec/atrun)
+0000008a.00090d24 015c6669 Tue Jan 01 2013 19:00:00 -05:00 [user:notice] /usr/libexec/save-entropy[35884]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.00090d44 015c7272 Tue Jan 01 2013 19:05:00 -05:00 [cron_cron:info:35987] (root) CMD (/usr/libexec/atrun)
+0000008a.00090db0 015c7dd9 Tue Jan 01 2013 19:10:00 -05:00 [cron_cron:info:36075] (root) CMD (/usr/libexec/atrun)
+0000008a.00090dc2 015c8031 Tue Jan 01 2013 19:11:00 -05:00 [cron_cron:info:36099] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.00090dc3 015c8031 Tue Jan 01 2013 19:11:00 -05:00 [user:notice] /usr/libexec/save-entropy[36103]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.00090de1 015c8991 Tue Jan 01 2013 19:15:00 -05:00 [cron_cron:info:36145] (root) CMD (/usr/libexec/atrun)
+0000008a.00090dfe 015c9549 Tue Jan 01 2013 19:20:00 -05:00 [cron_cron:info:36213] (root) CMD (/usr/libexec/atrun)
+0000008a.00090e02 015c9821 Tue Jan 01 2013 19:21:13 -05:00 [ntp_ntpd:info:2178] synchronized to 10.98.17.43, stratum 2
+0000008a.00090e04 015c99f9 Tue Jan 01 2013 19:22:00 -05:00 [cron_cron:info:36248] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.00090e05 015c99f9 Tue Jan 01 2013 19:22:00 -05:00 [user:notice] /usr/libexec/save-entropy[36252]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.00090e16 015ca101 Tue Jan 01 2013 19:25:00 -05:00 [cron_cron:info:36302] (root) CMD (/usr/libexec/atrun)
+0000008a.00090e37 015cacb9 Tue Jan 01 2013 19:30:00 -05:00 [cron_cron:info:36331] (root) CMD (/usr/libexec/atrun)
+0000008a.00090e50 015cb3c4 Tue Jan 01 2013 19:33:00 -05:00 [cron_cron:info:36392] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.00090e51 015cb3c4 Tue Jan 01 2013 19:33:00 -05:00 [user:notice] /usr/libexec/save-entropy[36396]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.00090e5c 015cb872 Tue Jan 01 2013 19:35:00 -05:00 [cron_cron:info:36434] (root) CMD (/usr/libexec/atrun)
+0000008a.00090e6f 015cbe58 Tue Jan 01 2013 19:37:31 -05:00 [wafl.mirror.access.denied:warning] Access to SnapMirror volume 'root_vs1_aggr13' was denied because SnapMirror initialization was not complete (exported Snapshot copy identifier '0' is invalid). 
+0000008a.00090e7a 015cc42a Tue Jan 01 2013 19:40:00 -05:00 [cron_cron:info:36480] (root) CMD (/usr/libexec/atrun)
+0000008a.00090e90 015ccd8a Tue Jan 01 2013 19:44:00 -05:00 [cron_cron:info:36536] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.00090e91 015ccd8a Tue Jan 01 2013 19:44:00 -05:00 [user:notice] /usr/libexec/save-entropy[36540]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.00090e96 015ccfe4 Tue Jan 01 2013 19:45:00 -05:00 [cron_cron:info:36558] (root) CMD (/usr/libexec/atrun)
+0000008a.00090ec1 015cdb9a Tue Jan 01 2013 19:50:00 -05:00 [cron_cron:info:36635] (root) CMD (/usr/libexec/atrun)
+0000008a.00090ee3 015ce752 Tue Jan 01 2013 19:55:00 -05:00 [cron_cron:info:36675] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.00090ee4 015ce752 Tue Jan 01 2013 19:55:00 -05:00 [cron_cron:info:36676] (root) CMD (/usr/libexec/atrun)
+0000008a.00090ee5 015ce752 Tue Jan 01 2013 19:55:00 -05:00 [user:notice] /usr/libexec/save-entropy[36681]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.00090f00 015cf30a Tue Jan 01 2013 20:00:00 -05:00 [kern.uptime.filer:info]   8:00pm up 26 days, 11:13 18362974 NFS ops, 286490 CIFS ops, 0 HTTP ops, 0 FCP ops, 0 iSCSI ops  
+0000008a.00090f01 015cf30a Tue Jan 01 2013 20:00:00 -05:00 [cron_cron:info:36771] (root) CMD (/etc/netapp_newsyslog)
+0000008a.00090f02 015cf30a Tue Jan 01 2013 20:00:00 -05:00 [cron_cron:info:36773] (root) CMD (/usr/libexec/atrun)
+0000008a.00090f03 015cf30a Tue Jan 01 2013 20:00:00 -05:00 [cron_cron:info:36772] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.00090f04 015cf30a Tue Jan 01 2013 20:00:00 -05:00 [user:notice] /usr/libexec/save-entropy[36779]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.00090f2d 015cfee2 Tue Jan 01 2013 20:05:00 -05:00 [cron_cron:info:36900] (root) CMD (/usr/libexec/atrun)
+0000008a.00090f8d 015d0a7a Tue Jan 01 2013 20:10:00 -05:00 [cron_cron:info:36980] (root) CMD (/usr/libexec/atrun)
+0000008a.00090f94 015d0cd2 Tue Jan 01 2013 20:11:00 -05:00 [cron_cron:info:37002] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.00090f95 015d0cd2 Tue Jan 01 2013 20:11:00 -05:00 [user:notice] /usr/libexec/save-entropy[37006]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.00090fab 015d1633 Tue Jan 01 2013 20:15:00 -05:00 [cron_cron:info:37055] (root) CMD (/usr/libexec/atrun)
+0000008a.00090fcf 015d21eb Tue Jan 01 2013 20:20:00 -05:00 [cron_cron:info:37118] (root) CMD (/usr/libexec/atrun)
+0000008a.00090fd8 015d269b Tue Jan 01 2013 20:22:00 -05:00 [cron_cron:info:37154] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.00090fd9 015d269b Tue Jan 01 2013 20:22:00 -05:00 [user:notice] /usr/libexec/save-entropy[37158]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.00090fe7 015d2da3 Tue Jan 01 2013 20:25:00 -05:00 [cron_cron:info:37215] (root) CMD (/usr/libexec/atrun)
+0000008a.0009100a 015d395b Tue Jan 01 2013 20:30:00 -05:00 [cron_cron:info:37242] (root) CMD (/usr/libexec/atrun)
+0000008a.00091021 015d4063 Tue Jan 01 2013 20:33:00 -05:00 [cron_cron:info:37302] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.00091022 015d4063 Tue Jan 01 2013 20:33:00 -05:00 [user:notice] /usr/libexec/save-entropy[37306]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.00091031 015d4513 Tue Jan 01 2013 20:35:00 -05:00 [cron_cron:info:37347] (root) CMD (/usr/libexec/atrun)
+0000008a.00091046 015d50cb Tue Jan 01 2013 20:40:00 -05:00 [cron_cron:info:37401] (root) CMD (/usr/libexec/atrun)
+0000008a.00091059 015d5a15 Tue Jan 01 2013 20:43:58 -05:00 [wafl.mirror.access.denied:warning] Access to SnapMirror volume 'root_vs1_aggr13' was denied because SnapMirror initialization was not complete (exported Snapshot copy identifier '0' is invalid). 
+0000008a.0009105a 015d5a2b Tue Jan 01 2013 20:44:00 -05:00 [cron_cron:info:37441] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0009105b 015d5a2b Tue Jan 01 2013 20:44:00 -05:00 [user:notice] /usr/libexec/save-entropy[37445]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0009105e 015d5c86 Tue Jan 01 2013 20:45:00 -05:00 [cron_cron:info:37462] (root) CMD (/usr/libexec/atrun)
+0000008a.00091082 015d6831 Tue Jan 01 2013 20:50:00 -05:00 [cron_cron:info:37557] (root) CMD (/usr/libexec/atrun)
+0000008a.000910a5 015d73e9 Tue Jan 01 2013 20:55:00 -05:00 [cron_cron:info:37581] (root) CMD (/usr/libexec/atrun)
+0000008a.000910a6 015d73e9 Tue Jan 01 2013 20:55:00 -05:00 [cron_cron:info:37580] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.000910a7 015d73e9 Tue Jan 01 2013 20:55:00 -05:00 [user:notice] /usr/libexec/save-entropy[37586]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.000910bc 015d7fa7 Tue Jan 01 2013 21:00:00 -05:00 [cron_cron:info:37674] (root) CMD (/etc/netapp_newsyslog)
+0000008a.000910bd 015d7fa7 Tue Jan 01 2013 21:00:00 -05:00 [cron_cron:info:37676] (root) CMD (/usr/libexec/atrun)
+0000008a.000910be 015d7fa7 Tue Jan 01 2013 21:00:00 -05:00 [cron_cron:info:37675] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.000910bf 015d7fa7 Tue Jan 01 2013 21:00:00 -05:00 [user:notice] /usr/libexec/save-entropy[37682]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.000910c0 015d7fa7 Tue Jan 01 2013 21:00:00 -05:00 [kern.uptime.filer:info]   9:00pm up 26 days, 12:13 18374286 NFS ops, 286524 CIFS ops, 0 HTTP ops, 0 FCP ops, 0 iSCSI ops  
+0000008a.000910de 015d8b77 Tue Jan 01 2013 21:05:00 -05:00 [cron_cron:info:37813] (root) CMD (/usr/libexec/atrun)
+0000008a.0009114d 015d9712 Tue Jan 01 2013 21:10:00 -05:00 [cron_cron:info:37889] (root) CMD (/usr/libexec/atrun)
+0000008a.00091156 015d996a Tue Jan 01 2013 21:11:00 -05:00 [cron_cron:info:37911] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.00091157 015d996a Tue Jan 01 2013 21:11:00 -05:00 [user:notice] /usr/libexec/save-entropy[37915]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0009116c 015da2ca Tue Jan 01 2013 21:15:00 -05:00 [cron_cron:info:37977] (root) CMD (/usr/libexec/atrun)
+0000008a.0009118a 015dae82 Tue Jan 01 2013 21:20:00 -05:00 [cron_cron:info:38017] (root) CMD (/usr/libexec/atrun)
+0000008a.00091196 015db332 Tue Jan 01 2013 21:22:00 -05:00 [cron_cron:info:38058] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.00091197 015db332 Tue Jan 01 2013 21:22:00 -05:00 [user:notice] /usr/libexec/save-entropy[38062]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.000911a5 015dba3a Tue Jan 01 2013 21:25:00 -05:00 [cron_cron:info:38116] (root) CMD (/usr/libexec/atrun)
+0000008a.000911c7 015dc5f2 Tue Jan 01 2013 21:30:00 -05:00 [cron_cron:info:38154] (root) CMD (/usr/libexec/atrun)
+0000008a.000911db 015dccfa Tue Jan 01 2013 21:33:00 -05:00 [cron_cron:info:38193] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.000911dc 015dccfa Tue Jan 01 2013 21:33:00 -05:00 [user:notice] /usr/libexec/save-entropy[38197]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.000911e5 015dd1aa Tue Jan 01 2013 21:35:00 -05:00 [cron_cron:info:38233] (root) CMD (/usr/libexec/atrun)
+0000008a.000911ff 015ddd63 Tue Jan 01 2013 21:40:00 -05:00 [cron_cron:info:38310] (root) CMD (/usr/libexec/atrun)
+0000008a.0009120c 015de662 Tue Jan 01 2013 21:43:50 -05:00 [wafl.mirror.access.denied:warning] Access to SnapMirror volume 'root_vs1_aggr13' was denied because SnapMirror initialization was not complete (exported Snapshot copy identifier '0' is invalid). 
+0000008a.00091210 015de6c3 Tue Jan 01 2013 21:44:00 -05:00 [cron_cron:info:38331] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.00091211 015de6c3 Tue Jan 01 2013 21:44:00 -05:00 [user:notice] /usr/libexec/save-entropy[38335]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.00091216 015de929 Tue Jan 01 2013 21:45:00 -05:00 [cron_cron:info:38354] (root) CMD (/usr/libexec/atrun)
+0000008a.0009123c 015df4db Tue Jan 01 2013 21:50:00 -05:00 [cron_cron:info:38444] (root) CMD (/usr/libexec/atrun)
+0000008a.00091261 015e008b Tue Jan 01 2013 21:55:00 -05:00 [cron_cron:info:38482] (root) CMD (/usr/libexec/atrun)
+0000008a.00091262 015e008b Tue Jan 01 2013 21:55:00 -05:00 [cron_cron:info:38481] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.00091263 015e008b Tue Jan 01 2013 21:55:00 -05:00 [user:notice] /usr/libexec/save-entropy[38487]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.00091276 015e0c46 Tue Jan 01 2013 22:00:00 -05:00 [cron_cron:info:38568] (root) CMD (/etc/netapp_newsyslog)
+0000008a.00091277 015e0c46 Tue Jan 01 2013 22:00:00 -05:00 [cron_cron:info:38570] (root) CMD (/usr/libexec/atrun)
+0000008a.00091278 015e0c46 Tue Jan 01 2013 22:00:00 -05:00 [cron_cron:info:38569] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.00091279 015e0c46 Tue Jan 01 2013 22:00:00 -05:00 [user:notice] /usr/libexec/save-entropy[38576]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0009127a 015e0c46 Tue Jan 01 2013 22:00:00 -05:00 [kern.uptime.filer:info]  10:00pm up 26 days, 13:13 18374939 NFS ops, 286580 CIFS ops, 0 HTTP ops, 0 FCP ops, 0 iSCSI ops  
+0000008a.00091295 015e1821 Tue Jan 01 2013 22:05:00 -05:00 [cron_cron:info:38722] (root) CMD (/usr/libexec/atrun)
+0000008a.00091300 015e23b3 Tue Jan 01 2013 22:10:00 -05:00 [cron_cron:info:38778] (root) CMD (/usr/libexec/atrun)
+0000008a.00091309 015e260b Tue Jan 01 2013 22:11:00 -05:00 [cron_cron:info:38800] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0009130a 015e260b Tue Jan 01 2013 22:11:00 -05:00 [user:notice] /usr/libexec/save-entropy[38804]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.00091321 015e2f6c Tue Jan 01 2013 22:15:00 -05:00 [cron_cron:info:38883] (root) CMD (/usr/libexec/atrun)
+0000008a.00091340 015e3b24 Tue Jan 01 2013 22:20:00 -05:00 [cron_cron:info:38903] (root) CMD (/usr/libexec/atrun)
+0000008a.0009134b 015e3fda Tue Jan 01 2013 22:22:00 -05:00 [cron_cron:info:38941] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0009134c 015e3fda Tue Jan 01 2013 22:22:00 -05:00 [user:notice] /usr/libexec/save-entropy[38945]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.00091355 015e46dc Tue Jan 01 2013 22:25:00 -05:00 [cron_cron:info:38996] (root) CMD (/usr/libexec/atrun)
+0000008a.0009137b 015e5294 Tue Jan 01 2013 22:30:00 -05:00 [cron_cron:info:39055] (root) CMD (/usr/libexec/atrun)
+0000008a.0009138a 015e55d2 Tue Jan 01 2013 22:31:23 -05:00 [ntp_ntpd:notice:2178] kernel time sync enabled 6001
+0000008a.00091393 015e599c Tue Jan 01 2013 22:33:00 -05:00 [cron_cron:info:39085] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.00091394 015e599c Tue Jan 01 2013 22:33:00 -05:00 [user:notice] /usr/libexec/save-entropy[39089]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.00091399 015e5e4c Tue Jan 01 2013 22:35:00 -05:00 [cron_cron:info:39127] (root) CMD (/usr/libexec/atrun)
+0000008a.000913b3 015e6a04 Tue Jan 01 2013 22:40:00 -05:00 [cron_cron:info:39218] (root) CMD (/usr/libexec/atrun)
+0000008a.000913c7 015e6f61 Tue Jan 01 2013 22:42:17 -05:00 [wafl.mirror.access.denied:warning] Access to SnapMirror volume 'root_vs1_aggr13' was denied because SnapMirror initialization was not complete (exported Snapshot copy identifier '0' is invalid). 
+0000008a.000913cc 015e7364 Tue Jan 01 2013 22:44:00 -05:00 [cron_cron:info:39236] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.000913cd 015e7364 Tue Jan 01 2013 22:44:00 -05:00 [user:notice] /usr/libexec/save-entropy[39240]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.000913d3 015e75c3 Tue Jan 01 2013 22:45:00 -05:00 [cron_cron:info:39255] (root) CMD (/usr/libexec/atrun)
+0000008a.000913fd 015e7dc8 Tue Jan 01 2013 22:48:26 -05:00 [ntp_ntpd:notice:2178] kernel time sync enabled 2001
+0000008a.00091401 015e8174 Tue Jan 01 2013 22:50:00 -05:00 [cron_cron:info:39347] (root) CMD (/usr/libexec/atrun)
+0000008a.00091422 015e8d2d Tue Jan 01 2013 22:55:00 -05:00 [cron_cron:info:39393] (root) CMD (/usr/libexec/atrun)
+0000008a.00091423 015e8d2d Tue Jan 01 2013 22:55:00 -05:00 [cron_cron:info:39392] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.00091424 015e8d2d Tue Jan 01 2013 22:55:00 -05:00 [user:notice] /usr/libexec/save-entropy[39398]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0009143c 015e98e6 Tue Jan 01 2013 23:00:00 -05:00 [cron_cron:info:39470] (root) CMD (/etc/netapp_newsyslog)
+0000008a.0009143d 015e98e6 Tue Jan 01 2013 23:00:00 -05:00 [cron_cron:info:39472] (root) CMD (/usr/libexec/atrun)
+0000008a.0009143e 015e98e6 Tue Jan 01 2013 23:00:00 -05:00 [cron_cron:info:39471] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0009143f 015e98e6 Tue Jan 01 2013 23:00:00 -05:00 [user:notice] /usr/libexec/save-entropy[39478]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.00091440 015e98e6 Tue Jan 01 2013 23:00:00 -05:00 [kern.uptime.filer:info]  11:00pm up 26 days, 14:13 18375509 NFS ops, 286614 CIFS ops, 0 HTTP ops, 0 FCP ops, 0 iSCSI ops  
+0000008a.0009145f 015ea4b6 Tue Jan 01 2013 23:05:00 -05:00 [cron_cron:info:39640] (root) CMD (/usr/libexec/atrun)
+0000008a.000914ca 015eb055 Tue Jan 01 2013 23:10:00 -05:00 [cron_cron:info:39672] (root) CMD (/usr/libexec/atrun)
+0000008a.000914d2 015eb2ad Tue Jan 01 2013 23:11:00 -05:00 [cron_cron:info:39692] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.000914d3 015eb2ad Tue Jan 01 2013 23:11:00 -05:00 [user:notice] /usr/libexec/save-entropy[39696]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.000914ef 015ebc0d Tue Jan 01 2013 23:15:00 -05:00 [cron_cron:info:39772] (root) CMD (/usr/libexec/atrun)
+0000008a.0009150b 015ec7c5 Tue Jan 01 2013 23:20:00 -05:00 [cron_cron:info:39810] (root) CMD (/usr/libexec/atrun)
+0000008a.00091514 015ecc75 Tue Jan 01 2013 23:22:00 -05:00 [cron_cron:info:39834] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.00091515 015ecc75 Tue Jan 01 2013 23:22:00 -05:00 [user:notice] /usr/libexec/save-entropy[39838]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.00091521 015ed37d Tue Jan 01 2013 23:25:00 -05:00 [cron_cron:info:39891] (root) CMD (/usr/libexec/atrun)
+0000008a.0009154a 015edf3a Tue Jan 01 2013 23:30:00 -05:00 [cron_cron:info:39971] (root) CMD (/usr/libexec/atrun)
+0000008a.00091560 015ee641 Tue Jan 01 2013 23:33:00 -05:00 [cron_cron:info:39984] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.00091561 015ee641 Tue Jan 01 2013 23:33:00 -05:00 [user:notice] /usr/libexec/save-entropy[39988]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.00091567 015eeaee Tue Jan 01 2013 23:35:00 -05:00 [cron_cron:info:40018] (root) CMD (/usr/libexec/atrun)
+0000008a.0009157b 015ef6a6 Tue Jan 01 2013 23:40:00 -05:00 [cron_cron:info:40113] (root) CMD (/usr/libexec/atrun)
+0000008a.0009158b 015efebf Tue Jan 01 2013 23:43:27 -05:00 [wafl.mirror.access.denied:warning] Access to SnapMirror volume 'root_vs1_aggr13' was denied because SnapMirror initialization was not complete (exported Snapshot copy identifier '0' is invalid). 
+0000008a.00091590 015f0006 Tue Jan 01 2013 23:44:00 -05:00 [cron_cron:info:40141] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.00091591 015f0006 Tue Jan 01 2013 23:44:00 -05:00 [user:notice] /usr/libexec/save-entropy[40145]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.00091593 015f0266 Tue Jan 01 2013 23:45:00 -05:00 [cron_cron:info:40147] (root) CMD (/usr/libexec/atrun)
+0000008a.000915c0 015f0e16 Tue Jan 01 2013 23:50:00 -05:00 [cron_cron:info:40239] (root) CMD (/usr/libexec/atrun)
+0000008a.000916e7 015f19ce Tue Jan 01 2013 23:55:00 -05:00 [cron_cron:info:40309] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.000916e8 015f19ce Tue Jan 01 2013 23:55:00 -05:00 [cron_cron:info:40310] (root) CMD (/usr/libexec/atrun)
+0000008a.000916e9 015f19ce Tue Jan 01 2013 23:55:00 -05:00 [user:notice] /usr/libexec/save-entropy[40315]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.000916fd 015f2592 Wed Jan 02 2013 00:00:00 -05:00 [mgmtgwd.certificate.expired:error] A digital certificate whose Fully Qualified Domain Name (FQDN) is vs1.cert for a Vserver vs1 has expired. 
+0000008a.000916fe 015f2592 Wed Jan 02 2013 00:00:00 -05:00 [mgmtgwd.certificate.expired:error] A digital certificate whose Fully Qualified Domain Name (FQDN) is vs2.cert for a Vserver vs2 has expired. 
+0000008a.000916ff 015f2592 Wed Jan 02 2013 00:00:00 -05:00 [mgmtgwd.certificate.expired:error] A digital certificate whose Fully Qualified Domain Name (FQDN) is stealth9.cert for a Vserver 14 has expired. 
+0000008a.00091700 015f2592 Wed Jan 02 2013 00:00:00 -05:00 [mgmtgwd.certificate.expired:error] A digital certificate whose Fully Qualified Domain Name (FQDN) is stealth10.cert for a Vserver 15 has expired. 
+0000008a.00091701 015f2592 Wed Jan 02 2013 00:00:00 -05:00 [mgmtgwd.certificate.expired:error] A digital certificate whose Fully Qualified Domain Name (FQDN) is ptctestbeds.cert for a Vserver ptctestbeds has expired. 
+0000008a.00091702 015f2592 Wed Jan 02 2013 00:00:00 -05:00 [mgmtgwd.certificate.expired:error] A digital certificate whose Fully Qualified Domain Name (FQDN) is stealth.cert for a Vserver stealth has expired. 
+0000008a.00091703 015f2592 Wed Jan 02 2013 00:00:00 -05:00 [kern.uptime.filer:info]  12:00am up 26 days, 15:13 18376118 NFS ops, 286648 CIFS ops, 0 HTTP ops, 0 FCP ops, 0 iSCSI ops  
+0000008a.00091704 015f2592 Wed Jan 02 2013 00:00:00 -05:00 [cron_cron:info:40366] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.00091705 015f2592 Wed Jan 02 2013 00:00:00 -05:00 [cron_cron:info:40367] (root) CMD (/usr/libexec/atrun)
+0000008a.00091706 015f2592 Wed Jan 02 2013 00:00:00 -05:00 [cron_cron:info:40365] (root) CMD (/etc/netapp_newsyslog)
+0000008a.00091707 015f2592 Wed Jan 02 2013 00:00:00 -05:00 [user:notice] /usr/libexec/save-entropy[40373]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.0009170a 015f2592 Wed Jan 02 2013 00:00:01 -05:00 [callhome.performance.data:info] Call home for PERFORMANCE DATA 
+0000008a.00091740 015f2634 Wed Jan 02 2013 00:00:13 -05:00 [kern_cmd:info:1823] get_instances failed, errcode = 8585322, err = Incorrect privilege level specified. { in get_instances() at perf_rpc_transport.cc:469 }
+0000008a.00091741 015f2634 Wed Jan 02 2013 00:00:13 -05:00 [kern_cmd:info:1823] Failed to get data from transports { in perf_object_get_instances_gatherer() at perf_object_gatherer.cc:1348 }
+0000008a.00091742 015f2634 Wed Jan 02 2013 00:00:13 -05:00 [kern_cmd:info:1823] get_instances failed, errcode = 8585322, err = Incorrect privilege level specified. { in get_instances() at perf_rpc_transport.cc:469 }
+0000008a.00091743 015f2634 Wed Jan 02 2013 00:00:13 -05:00 [kern_cmd:info:1823] Failed to get data from transports { in perf_object_get_instances_gatherer() at perf_object_gatherer.cc:1348 }
+0000008a.00091745 015f2634 Wed Jan 02 2013 00:00:14 -05:00 [kern_cmd:info:1823] get_instances failed, errcode = 8585322, err = Incorrect privilege level specified. { in get_instances() at perf_rpc_transport.cc:469 }
+0000008a.00091746 015f2634 Wed Jan 02 2013 00:00:14 -05:00 [kern_cmd:info:1823] Failed to get data from transports { in perf_object_get_instances_gatherer() at perf_object_gatherer.cc:1348 }
+0000008a.00091747 015f2634 Wed Jan 02 2013 00:00:14 -05:00 [kern_cmd:info:1823] get_instances failed, errcode = 8585322, err = Incorrect privilege level specified. { in get_instances() at perf_rpc_transport.cc:469 }
+0000008a.00091748 015f2634 Wed Jan 02 2013 00:00:14 -05:00 [kern_cmd:info:1823] Failed to get data from transports { in perf_object_get_instances_gatherer() at perf_object_gatherer.cc:1348 }
+0000008a.0009174a 015f2634 Wed Jan 02 2013 00:00:14 -05:00 [kern_cmd:info:1823] get_instances failed, errcode = 8585322, err = Incorrect privilege level specified. { in get_instances() at perf_rpc_transport.cc:469 }
+0000008a.0009174b 015f2634 Wed Jan 02 2013 00:00:14 -05:00 [kern_cmd:info:1823] Failed to get data from transports { in perf_object_get_instances_gatherer() at perf_object_gatherer.cc:1348 }
+0000008a.0009174c 015f2634 Wed Jan 02 2013 00:00:14 -05:00 [kern_cmd:info:1823] get_instances failed, errcode = 8585322, err = Incorrect privilege level specified. { in get_instances() at perf_rpc_transport.cc:469 }
+0000008a.0009174d 015f2634 Wed Jan 02 2013 00:00:14 -05:00 [kern_cmd:info:1823] Failed to get data from transports { in perf_object_get_instances_gatherer() at perf_object_gatherer.cc:1348 }
+0000008a.0009174f 015f2634 Wed Jan 02 2013 00:00:14 -05:00 [kern_cmd:info:1823] get_instances failed, errcode = 8585322, err = Incorrect privilege level specified. { in get_instances() at perf_rpc_transport.cc:469 }
+0000008a.00091750 015f2634 Wed Jan 02 2013 00:00:14 -05:00 [kern_cmd:info:1823] Failed to get data from transports { in perf_object_get_instances_gatherer() at perf_object_gatherer.cc:1348 }
+0000008a.00091751 015f2634 Wed Jan 02 2013 00:00:14 -05:00 [kern_cmd:info:1823] get_instances failed, errcode = 8585322, err = Incorrect privilege level specified. { in get_instances() at perf_rpc_transport.cc:469 }
+0000008a.00091752 015f2634 Wed Jan 02 2013 00:00:14 -05:00 [kern_cmd:info:1823] Failed to get data from transports { in perf_object_get_instances_gatherer() at perf_object_gatherer.cc:1348 }
+0000008a.00091754 015f2634 Wed Jan 02 2013 00:00:14 -05:00 [kern_cmd:info:1823] get_instances failed, errcode = 8585322, err = Incorrect privilege level specified. { in get_instances() at perf_rpc_transport.cc:469 }
+0000008a.00091755 015f2634 Wed Jan 02 2013 00:00:14 -05:00 [kern_cmd:info:1823] Failed to get data from transports { in perf_object_get_instances_gatherer() at perf_object_gatherer.cc:1348 }
+0000008a.00091756 015f2634 Wed Jan 02 2013 00:00:15 -05:00 [kern_cmd:info:1823] get_instances failed, errcode = 8585322, err = Incorrect privilege level specified. { in get_instances() at perf_rpc_transport.cc:469 }
+0000008a.00091757 015f2634 Wed Jan 02 2013 00:00:15 -05:00 [kern_cmd:info:1823] Failed to get data from transports { in perf_object_get_instances_gatherer() at perf_object_gatherer.cc:1348 }
+0000008a.00091759 015f2634 Wed Jan 02 2013 00:00:15 -05:00 [kern_cmd:info:1823] get_instances failed, errcode = 8585322, err = Incorrect privilege level specified. { in get_instances() at perf_rpc_transport.cc:469 }
+0000008a.0009175a 015f2634 Wed Jan 02 2013 00:00:15 -05:00 [kern_cmd:info:1823] Failed to get data from transports { in perf_object_get_instances_gatherer() at perf_object_gatherer.cc:1348 }
+0000008a.0009175b 015f2634 Wed Jan 02 2013 00:00:15 -05:00 [kern_cmd:info:1823] get_instances failed, errcode = 8585322, err = Incorrect privilege level specified. { in get_instances() at perf_rpc_transport.cc:469 }
+0000008a.0009175c 015f2634 Wed Jan 02 2013 00:00:15 -05:00 [kern_cmd:info:1823] Failed to get data from transports { in perf_object_get_instances_gatherer() at perf_object_gatherer.cc:1348 }
+0000008a.0009175e 015f2634 Wed Jan 02 2013 00:00:15 -05:00 [kern_cmd:info:1823] get_instances failed, errcode = 8585322, err = Incorrect privilege level specified. { in get_instances() at perf_rpc_transport.cc:469 }
+0000008a.0009175f 015f2634 Wed Jan 02 2013 00:00:15 -05:00 [kern_cmd:info:1823] Failed to get data from transports { in perf_object_get_instances_gatherer() at perf_object_gatherer.cc:1348 }
+0000008a.00091760 015f2634 Wed Jan 02 2013 00:00:15 -05:00 [kern_cmd:info:1823] get_instances failed, errcode = 8585322, err = Incorrect privilege level specified. { in get_instances() at perf_rpc_transport.cc:469 }
+0000008a.00091761 015f2634 Wed Jan 02 2013 00:00:15 -05:00 [kern_cmd:info:1823] Failed to get data from transports { in perf_object_get_instances_gatherer() at perf_object_gatherer.cc:1348 }
+0000008a.00091763 015f2634 Wed Jan 02 2013 00:00:15 -05:00 [kern_cmd:info:1823] get_instances failed, errcode = 8585322, err = Incorrect privilege level specified. { in get_instances() at perf_rpc_transport.cc:469 }
+0000008a.00091764 015f2634 Wed Jan 02 2013 00:00:15 -05:00 [kern_cmd:info:1823] Failed to get data from transports { in perf_object_get_instances_gatherer() at perf_object_gatherer.cc:1348 }
+0000008a.00091765 015f2634 Wed Jan 02 2013 00:00:15 -05:00 [kern_cmd:info:1823] get_instances failed, errcode = 8585322, err = Incorrect privilege level specified. { in get_instances() at perf_rpc_transport.cc:469 }
+0000008a.00091766 015f2634 Wed Jan 02 2013 00:00:15 -05:00 [kern_cmd:info:1823] Failed to get data from transports { in perf_object_get_instances_gatherer() at perf_object_gatherer.cc:1348 }
+0000008a.00091768 015f2634 Wed Jan 02 2013 00:00:15 -05:00 [kern_cmd:info:1823] get_instances failed, errcode = 8585322, err = Incorrect privilege level specified. { in get_instances() at perf_rpc_transport.cc:469 }
+0000008a.00091769 015f2634 Wed Jan 02 2013 00:00:15 -05:00 [kern_cmd:info:1823] Failed to get data from transports { in perf_object_get_instances_gatherer() at perf_object_gatherer.cc:1348 }
+0000008a.0009176a 015f2634 Wed Jan 02 2013 00:00:15 -05:00 [kern_cmd:info:1823] get_instances failed, errcode = 8585322, err = Incorrect privilege level specified. { in get_instances() at perf_rpc_transport.cc:469 }
+0000008a.0009176b 015f2634 Wed Jan 02 2013 00:00:15 -05:00 [kern_cmd:info:1823] Failed to get data from transports { in perf_object_get_instances_gatherer() at perf_object_gatherer.cc:1348 }
+0000008a.0009176d 015f2634 Wed Jan 02 2013 00:00:15 -05:00 [kern_cmd:info:1823] get_instances failed, errcode = 8585322, err = Incorrect privilege level specified. { in get_instances() at perf_rpc_transport.cc:469 }
+0000008a.0009176e 015f2634 Wed Jan 02 2013 00:00:15 -05:00 [kern_cmd:info:1823] Failed to get data from transports { in perf_object_get_instances_gatherer() at perf_object_gatherer.cc:1348 }
+0000008a.0009176f 015f2634 Wed Jan 02 2013 00:00:15 -05:00 [kern_cmd:info:1823] get_instances failed, errcode = 8585322, err = Incorrect privilege level specified. { in get_instances() at perf_rpc_transport.cc:469 }
+0000008a.00091770 015f2634 Wed Jan 02 2013 00:00:15 -05:00 [kern_cmd:info:1823] Failed to get data from transports { in perf_object_get_instances_gatherer() at perf_object_gatherer.cc:1348 }
+0000008a.00091772 015f2634 Wed Jan 02 2013 00:00:15 -05:00 [kern_cmd:info:1823] get_instances failed, errcode = 8585322, err = Incorrect privilege level specified. { in get_instances() at perf_rpc_transport.cc:469 }
+0000008a.00091773 015f2634 Wed Jan 02 2013 00:00:15 -05:00 [kern_cmd:info:1823] Failed to get data from transports { in perf_object_get_instances_gatherer() at perf_object_gatherer.cc:1348 }
+0000008a.00091774 015f2634 Wed Jan 02 2013 00:00:16 -05:00 [kern_cmd:info:1823] get_instances failed, errcode = 8585322, err = Incorrect privilege level specified. { in get_instances() at perf_rpc_transport.cc:469 }
+0000008a.00091775 015f2634 Wed Jan 02 2013 00:00:16 -05:00 [kern_cmd:info:1823] Failed to get data from transports { in perf_object_get_instances_gatherer() at perf_object_gatherer.cc:1348 }
+0000008a.00091777 015f2634 Wed Jan 02 2013 00:00:16 -05:00 [kern_cmd:info:1823] get_instances failed, errcode = 8585322, err = Incorrect privilege level specified. { in get_instances() at perf_rpc_transport.cc:469 }
+0000008a.00091778 015f2634 Wed Jan 02 2013 00:00:16 -05:00 [kern_cmd:info:1823] Failed to get data from transports { in perf_object_get_instances_gatherer() at perf_object_gatherer.cc:1348 }
+0000008a.00091779 015f2634 Wed Jan 02 2013 00:00:16 -05:00 [kern_cmd:info:1823] get_instances failed, errcode = 8585322, err = Incorrect privilege level specified. { in get_instances() at perf_rpc_transport.cc:469 }
+0000008a.0009177a 015f2634 Wed Jan 02 2013 00:00:16 -05:00 [kern_cmd:info:1823] Failed to get data from transports { in perf_object_get_instances_gatherer() at perf_object_gatherer.cc:1348 }
+0000008a.0009177c 015f2635 Wed Jan 02 2013 00:00:16 -05:00 [kern_cmd:info:1823] get_instances failed, errcode = 8585322, err = Incorrect privilege level specified. { in get_instances() at perf_rpc_transport.cc:469 }
+0000008a.0009177d 015f2635 Wed Jan 02 2013 00:00:16 -05:00 [kern_cmd:info:1823] Failed to get data from transports { in perf_object_get_instances_gatherer() at perf_object_gatherer.cc:1348 }
+0000008a.0009177e 015f2635 Wed Jan 02 2013 00:00:16 -05:00 [kern_cmd:info:1823] get_instances failed, errcode = 8585322, err = Incorrect privilege level specified. { in get_instances() at perf_rpc_transport.cc:469 }
+0000008a.0009177f 015f2635 Wed Jan 02 2013 00:00:16 -05:00 [kern_cmd:info:1823] Failed to get data from transports { in perf_object_get_instances_gatherer() at perf_object_gatherer.cc:1348 }
+0000008a.00091781 015f2635 Wed Jan 02 2013 00:00:16 -05:00 [kern_cmd:info:1823] get_instances failed, errcode = 8585322, err = Incorrect privilege level specified. { in get_instances() at perf_rpc_transport.cc:469 }
+0000008a.00091782 015f2635 Wed Jan 02 2013 00:00:16 -05:00 [kern_cmd:info:1823] Failed to get data from transports { in perf_object_get_instances_gatherer() at perf_object_gatherer.cc:1348 }
+0000008a.00091783 015f2635 Wed Jan 02 2013 00:00:16 -05:00 [kern_cmd:info:1823] get_instances failed, errcode = 8585322, err = Incorrect privilege level specified. { in get_instances() at perf_rpc_transport.cc:469 }
+0000008a.00091784 015f2635 Wed Jan 02 2013 00:00:16 -05:00 [kern_cmd:info:1823] Failed to get data from transports { in perf_object_get_instances_gatherer() at perf_object_gatherer.cc:1348 }
+0000008a.00091786 015f2635 Wed Jan 02 2013 00:00:16 -05:00 [kern_cmd:info:1823] get_instances failed, errcode = 8585322, err = Incorrect privilege level specified. { in get_instances() at perf_rpc_transport.cc:469 }
+0000008a.00091787 015f2635 Wed Jan 02 2013 00:00:16 -05:00 [kern_cmd:info:1823] Failed to get data from transports { in perf_object_get_instances_gatherer() at perf_object_gatherer.cc:1348 }
+0000008a.00091788 015f2635 Wed Jan 02 2013 00:00:16 -05:00 [kern_cmd:info:1823] get_instances failed, errcode = 8585322, err = Incorrect privilege level specified. { in get_instances() at perf_rpc_transport.cc:469 }
+0000008a.00091789 015f2635 Wed Jan 02 2013 00:00:16 -05:00 [kern_cmd:info:1823] Failed to get data from transports { in perf_object_get_instances_gatherer() at perf_object_gatherer.cc:1348 }
+0000008a.0009178b 015f2635 Wed Jan 02 2013 00:00:16 -05:00 [kern_cmd:info:1823] get_instances failed, errcode = 8585322, err = Incorrect privilege level specified. { in get_instances() at perf_rpc_transport.cc:469 }
+0000008a.0009178c 015f2635 Wed Jan 02 2013 00:00:16 -05:00 [kern_cmd:info:1823] Failed to get data from transports { in perf_object_get_instances_gatherer() at perf_object_gatherer.cc:1348 }
+0000008a.0009178d 015f2635 Wed Jan 02 2013 00:00:16 -05:00 [kern_cmd:info:1823] get_instances failed, errcode = 8585322, err = Incorrect privilege level specified. { in get_instances() at perf_rpc_transport.cc:469 }
+0000008a.0009178e 015f2635 Wed Jan 02 2013 00:00:16 -05:00 [kern_cmd:info:1823] Failed to get data from transports { in perf_object_get_instances_gatherer() at perf_object_gatherer.cc:1348 }
+0000008a.00091790 015f2635 Wed Jan 02 2013 00:00:17 -05:00 [kern_cmd:info:1823] get_instances failed, errcode = 8585322, err = Incorrect privilege level specified. { in get_instances() at perf_rpc_transport.cc:469 }
+0000008a.00091791 015f2635 Wed Jan 02 2013 00:00:17 -05:00 [kern_cmd:info:1823] Failed to get data from transports { in perf_object_get_instances_gatherer() at perf_object_gatherer.cc:1348 }
+0000008a.00091792 015f2635 Wed Jan 02 2013 00:00:17 -05:00 [kern_cmd:info:1823] get_instances failed, errcode = 8585322, err = Incorrect privilege level specified. { in get_instances() at perf_rpc_transport.cc:469 }
+0000008a.00091793 015f2635 Wed Jan 02 2013 00:00:17 -05:00 [kern_cmd:info:1823] Failed to get data from transports { in perf_object_get_instances_gatherer() at perf_object_gatherer.cc:1348 }
+0000008a.00091795 015f2635 Wed Jan 02 2013 00:00:17 -05:00 [kern_cmd:info:1823] get_instances failed, errcode = 8585322, err = Incorrect privilege level specified. { in get_instances() at perf_rpc_transport.cc:469 }
+0000008a.00091796 015f2635 Wed Jan 02 2013 00:00:17 -05:00 [kern_cmd:info:1823] Failed to get data from transports { in perf_object_get_instances_gatherer() at perf_object_gatherer.cc:1348 }
+0000008a.00091797 015f2635 Wed Jan 02 2013 00:00:17 -05:00 [kern_cmd:info:1823] get_instances failed, errcode = 8585322, err = Incorrect privilege level specified. { in get_instances() at perf_rpc_transport.cc:469 }
+0000008a.00091798 015f2635 Wed Jan 02 2013 00:00:17 -05:00 [kern_cmd:info:1823] Failed to get data from transports { in perf_object_get_instances_gatherer() at perf_object_gatherer.cc:1348 }
+0000008a.0009179a 015f2635 Wed Jan 02 2013 00:00:17 -05:00 [kern_cmd:info:1823] get_instances failed, errcode = 8585322, err = Incorrect privilege level specified. { in get_instances() at perf_rpc_transport.cc:469 }
+0000008a.0009179b 015f2635 Wed Jan 02 2013 00:00:17 -05:00 [kern_cmd:info:1823] Failed to get data from transports { in perf_object_get_instances_gatherer() at perf_object_gatherer.cc:1348 }
+0000008a.0009179c 015f2635 Wed Jan 02 2013 00:00:17 -05:00 [kern_cmd:info:1823] get_instances failed, errcode = 8585322, err = Incorrect privilege level specified. { in get_instances() at perf_rpc_transport.cc:469 }
+0000008a.0009179d 015f2635 Wed Jan 02 2013 00:00:17 -05:00 [kern_cmd:info:1823] Failed to get data from transports { in perf_object_get_instances_gatherer() at perf_object_gatherer.cc:1348 }
+0000008a.000917a5 015f27df Wed Jan 02 2013 00:01:00 -05:00 [cron_cron:info:40555] (root) CMD (adjkerntz -a)
+0000008a.000917c0 015f3164 Wed Jan 02 2013 00:05:00 -05:00 [cron_cron:info:40716] (root) CMD (/usr/libexec/atrun)
+0000008a.0009182f 015f3d03 Wed Jan 02 2013 00:10:00 -05:00 [cron_cron:info:40872] (root) CMD (/usr/libexec/atrun)
+0000008a.00091850 015f3f4f Wed Jan 02 2013 00:10:59 -05:00 [mgmtgwd.filereplication.publish.success:info] Successfully published '/mroot/etc/backups/config/stealth13.daily.2013-01-02.00_10_00.7z' as package 'stealth13.daily.2013-01-02.00_10_00.7z:0'. 
+0000008a.00091859 015f3f4f Wed Jan 02 2013 00:11:00 -05:00 [cron_cron:info:41570] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.0009185a 015f3f4f Wed Jan 02 2013 00:11:00 -05:00 [user:notice] /usr/libexec/save-entropy[41574]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.00091886 015f45b3 Wed Jan 02 2013 00:13:44 -05:00 [ntp_ntpd:notice:2178] kernel time sync enabled 6001
+0000008a.0009188e 015f48bb Wed Jan 02 2013 00:15:00 -05:00 [cron_cron:info:41650] (root) CMD (/usr/libexec/atrun)
+0000008a.000918b4 015f536b Wed Jan 02 2013 00:19:35 -05:00 [mgmtgwd.filereplication.subscribe.success:info] Subscription of package 'stealth7.daily.2013-01-02.00_10_00.7z:latest' for 'extraction to /mroot/etc/backups/.tmp/.tmp.bk.stealth.daily.886797.1357103400/stealth7' was successful. 
+0000008a.000918b5 015f5394 Wed Jan 02 2013 00:19:39 -05:00 [mgmtgwd.filereplication.subscribe.success:info] Subscription of package 'stealth8.daily.2013-01-02.00_10_00.7z:latest' for 'extraction to /mroot/etc/backups/.tmp/.tmp.bk.stealth.daily.886797.1357103400/stealth8' was successful. 
+0000008a.000918b9 015f53be Wed Jan 02 2013 00:19:43 -05:00 [mgmtgwd.filereplication.subscribe.success:info] Subscription of package 'stealth12.daily.2013-01-02.00_10_00.7z:latest' for 'extraction to /mroot/etc/backups/.tmp/.tmp.bk.stealth.daily.886797.1357103400/stealth12' was successful. 
+0000008a.000918ba 015f53e5 Wed Jan 02 2013 00:19:47 -05:00 [mgmtgwd.filereplication.subscribe.success:info] Subscription of package 'stealth14.daily.2013-01-02.00_10_00.7z:latest' for 'extraction to /mroot/etc/backups/.tmp/.tmp.bk.stealth.daily.886797.1357103400/stealth14' was successful. 
+0000008a.000918bb 015f53f2 Wed Jan 02 2013 00:19:49 -05:00 [mgmtgwd.filereplication.subscribe.success:info] Subscription of package 'stealth13.daily.2013-01-02.00_10_00.7z:latest' for 'extraction to /mroot/etc/backups/.tmp/.tmp.bk.stealth.daily.886797.1357103400/stealth13' was successful. 
+0000008a.000918bc 015f542e Wed Jan 02 2013 00:19:55 -05:00 [mgmtgwd.filereplication.subscribe.success:info] Subscription of package 'stealth17.daily.2013-01-02.00_10_00.7z:latest' for 'extraction to /mroot/etc/backups/.tmp/.tmp.bk.stealth.daily.886797.1357103400/stealth17' was successful. 
+0000008a.000918bd 015f5467 Wed Jan 02 2013 00:20:00 -05:00 [mgmtgwd.filereplication.subscribe.success:info] Subscription of package 'stealth18.daily.2013-01-02.00_10_00.7z:latest' for 'extraction to /mroot/etc/backups/.tmp/.tmp.bk.stealth.daily.886797.1357103400/stealth18' was successful. 
+0000008a.000918be 015f5467 Wed Jan 02 2013 00:20:00 -05:00 [cron_cron:info:41713] (root) CMD (/usr/libexec/atrun)
+0000008a.000918c2 015f54a3 Wed Jan 02 2013 00:20:06 -05:00 [mgmtgwd.filereplication.subscribe.success:info] Subscription of package 'stealth11.daily.2013-01-02.00_10_00.7z:latest' for 'extraction to /mroot/etc/backups/.tmp/.tmp.bk.stealth.daily.886797.1357103400/stealth11' was successful. 
+0000008a.000918c3 015f54d2 Wed Jan 02 2013 00:20:11 -05:00 [mgmtgwd.filereplication.subscribe.success:info] Subscription of package 'stealth15.daily.2013-01-02.00_10_00.7z:latest' for 'extraction to /mroot/etc/backups/.tmp/.tmp.bk.stealth.daily.886797.1357103400/stealth15' was successful. 
+0000008a.000918c4 015f54fa Wed Jan 02 2013 00:20:15 -05:00 [mgmtgwd.filereplication.subscribe.success:info] Subscription of package 'stealth5.daily.2013-01-02.00_10_00.7z:latest' for 'extraction to /mroot/etc/backups/.tmp/.tmp.bk.stealth.daily.886797.1357103400/stealth5' was successful. 
+0000008a.000918c5 015f5521 Wed Jan 02 2013 00:20:19 -05:00 [mgmtgwd.filereplication.subscribe.success:info] Subscription of package 'stealth6.daily.2013-01-02.00_10_00.7z:latest' for 'extraction to /mroot/etc/backups/.tmp/.tmp.bk.stealth.daily.886797.1357103400/stealth6' was successful. 
+0000008a.000918c7 015f554c Wed Jan 02 2013 00:20:23 -05:00 [mgmtgwd.filereplication.subscribe.success:info] Subscription of package 'stealth16.daily.2013-01-02.00_10_00.7z:latest' for 'extraction to /mroot/etc/backups/.tmp/.tmp.bk.stealth.daily.886797.1357103400/stealth16' was successful. 
+0000008a.000918cc 015f5917 Wed Jan 02 2013 00:22:00 -05:00 [cron_cron:info:41774] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.000918cd 015f5917 Wed Jan 02 2013 00:22:00 -05:00 [user:notice] /usr/libexec/save-entropy[41778]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.
+0000008a.000918dc 015f602b Wed Jan 02 2013 00:25:00 -05:00 [cron_cron:info:41962] (root) CMD (/usr/libexec/atrun)
+0000008a.000918e2 015f60c2 Wed Jan 02 2013 00:25:16 -05:00 [mgmtgwd.filereplication.publish.success:info] Successfully published '/mroot/etc/backups/config/stealth.daily.2013-01-02.00_10_00.7z' as package 'stealth.daily.2013-01-02.00_10_00.7z:0'. 
+0000008a.000918e4 015f60c2 Wed Jan 02 2013 00:25:16 -05:00 [mgmtgwd.configbr.backupCompleted:notice] Scheduled configuration backup stealth.daily.2013-01-02.00_10_00.7z was created successfully. 
+0000008a.000918f2 015f61c9 Wed Jan 02 2013 00:25:43 -05:00 [mgmtgwd.filereplication.dist:info] The file replication service successfully distributed package 'stealth.daily.2013-01-02.00_10_00.7z:0' to '10.98.24.160'. 
+0000008a.000918fc 015f62d2 Wed Jan 02 2013 00:26:09 -05:00 [mgmtgwd.filereplication.dist:info] The file replication service successfully distributed package 'stealth.daily.2013-01-02.00_10_00.7z:0' to '10.98.24.150'. 
+0000008a.00091906 015f63e6 Wed Jan 02 2013 00:26:37 -05:00 [mgmtgwd.filereplication.dist:info] The file replication service successfully distributed package 'stealth.daily.2013-01-02.00_10_00.7z:0' to '10.98.24.152'. 
+0000008a.00091913 015f6606 Wed Jan 02 2013 00:27:31 -05:00 [mgmtgwd.filereplication.dist:info] The file replication service successfully distributed package 'stealth.daily.2013-01-02.00_10_00.7z:0' to '10.98.24.174'. 
+0000008a.0009192d 015f6bd8 Wed Jan 02 2013 00:30:00 -05:00 [cron_cron:info:42074] (root) CMD (/usr/libexec/atrun)
+0000008a.00091934 015f6db3 Wed Jan 02 2013 00:30:48 -05:00 [ntp_ntpd:notice:2178] kernel time sync enabled 2001
+0000008a.00091935 015f6e30 Wed Jan 02 2013 00:31:00 -05:00 [cron_cron:info:42079] (root) CMD (adjkerntz -a)
+0000008a.00091943 015f72e1 Wed Jan 02 2013 00:33:00 -05:00 [cron_cron:info:42090] (operator) CMD (/usr/libexec/save-entropy)
+0000008a.00091944 015f72e1 Wed Jan 02 2013 00:33:00 -05:00 [user:notice] /usr/libexec/save-entropy[42094]: The entropy directory /var/db/entropy does not exist, and cannot be created. Therefore no entropy can be saved.

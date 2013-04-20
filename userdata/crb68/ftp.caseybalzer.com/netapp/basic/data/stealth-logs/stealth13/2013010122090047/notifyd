@@ -1,0 +1,140 @@
+0000008a.0008e6c5 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] read callhome event: callhome.management.log
+0000008a.0008e6c6 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] first level screening for callhome event: callhome.management.log (name callhome.management.log, src mhost)
+0000008a.0008e6c7 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] ems_asup::handle for event callhome.management.log (68321) t=2215662
+0000008a.0008e6c8 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] ems_asup::handle job for event callhome.management.log (68321) worked t=2215662
+0000008a.0008e6c9 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] asup_job::run started t=2215662
+0000008a.0008e6ca 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] asup_job::run is triggered by event callhome.management.log (68321) t=2215662
+0000008a.0008e6cb 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] asup_job::run calling smtp_file for 'MANAGEMENT_LOG'
+0000008a.0008e6cc 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] Creating autosupport with sequence number 460, event callhome.management.log
+0000008a.0008e6cd 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] Beginning collection for autosupport with seq num 460
+0000008a.0008e6d0 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] 0x80719bf90: ERR: Autosupport::Collection: NotifyD collector: [AutoSupport_Custom_Content]    Target: custom_fx Subsys: log_files Type: basic Minimal: 0 Mode Flags: 15 Outfile: MESSAGES.gz Cmd: Custom function Query: messages   --  manifest_status = content-empty , error = This file has not changed since previously sent AutoSupport seq( 402 )
+0000008a.0008e6d1 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] 0x80719bf90: ERR: Autosupport::Collection: NotifyD collector: [AutoSupport_Custom_Content]    Target: custom_fx Subsys: log_files Type: troubleshooting Minimal: 0 Mode Flags: 15 Outfile: backup.gz Cmd: Custom function Query: backup   --  manifest_status = content-empty , error = This file has not changed since previously sent AutoSupport seq( 436 )
+0000008a.0008e6d2 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] 0x80719bf90: ERR: Autosupport::Collection: NotifyD collector: [AutoSupport_Custom_Content]    Target: custom_fx Subsys: log_files Type: troubleshooting Minimal: 0 Mode Flags: 15 Outfile: sis-log.gz Cmd: Custom function Query: sis   --  manifest_status = content-empty , error = This file has not changed since previously sent AutoSupport seq( 394 )
+0000008a.0008e6d3 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] 0x80719bf90: ERR: Autosupport::Collection: NotifyD collector: [AutoSupport_Custom_Content]    Target: custom_fx Subsys: log_files Type: troubleshooting Minimal: 0 Mode Flags: 15 Outfile: acplog.gz Cmd: Custom function Query: acplog   --  manifest_status = content-empty , error = This file has not changed since previously sent AutoSupport seq( 0 )
+0000008a.0008e6d4 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] 0x80719bf90: ERR: Autosupport::Collection: NotifyD collector: [AutoSupport_Custom_Content]    Target: custom_fx Subsys: log_files Type: troubleshooting Minimal: 0 Mode Flags: 15 Outfile: shelf-log-sas.gz Cmd: Custom function Query: shelflog_sas   --  manifest_status = content-empty , error = This file has not changed since previously sent AutoSupport seq( 0 )
+0000008a.0008e6d5 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] 0x80719bf90: ERR: Autosupport::Collection: NotifyD collector: [AutoSupport_Custom_Content]    Target: custom_fx Subsys: log_files Type: troubleshooting Minimal: 0 Mode Flags: 15 Outfile: shelf-log-esh.gz Cmd: Custom function Query: shelflog_esh   --  manifest_status = content-empty , error = This file has not changed since previously sent AutoSupport seq( 456 )
+0000008a.0008e6d6 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] 0x80719bf90: ERR: Autosupport::Collection: NotifyD collector: [AutoSupport_Custom_Content]    Target: custom_fx Subsys: log_files Type: troubleshooting Minimal: 0 Mode Flags: 15 Outfile: shelf-log-ata.gz Cmd: Custom function Query: shelflog_ata   --  manifest_status = content-empty , error = This file has not changed since previously sent AutoSupport seq( 456 )
+0000008a.0008e6d7 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] 0x80719bf90: ERR: Autosupport::Collection: NotifyD collector: [AutoSupport_Custom_Content]    Target: custom_fx Subsys: log_files Type: troubleshooting Minimal: 0 Mode Flags: 15 Outfile: shelf-log-iom.gz Cmd: Custom function Query: shelflog_iom   --  manifest_status = content-empty , error = This file has not changed since previously sent AutoSupport seq( 395 )
+0000008a.0008e6d8 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] 0x80719bf90: ERR: Autosupport::Collection: NotifyD collector: [AutoSupport_Custom_Content]    Target: custom_fx Subsys: log_files Type: troubleshooting Minimal: 0 Mode Flags: 2 Outfile: command-history.gz Cmd: Custom function Query: command-history   --  manifest_status = content-empty , error = This file has not changed since previously sent AutoSupport seq( 456 )
+0000008a.0008e6d9 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] 0x80719bf90: ERR: Autosupport::Collection: NotifyD collector: [AutoSupport_Custom_Content]    Target: custom_fx Subsys: log_files Type: troubleshooting Minimal: 0 Mode Flags: 15 Outfile: spmd.gz Cmd: Custom function Query: spmd   --  manifest_status = content-empty , error = This file has not changed since previously sent AutoSupport seq( 395 )
+0000008a.0008e6da 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] 0x80719bf90: ERR: Autosupport::Collection: NotifyD collector: [AutoSupport_Custom_Content]    Target: custom_fx Subsys: log_files Type: troubleshooting Minimal: 0 Mode Flags: 2 Outfile: vifmgr.gz Cmd: Custom function Query: vifmgr   --  manifest_status = content-empty , error = This file has not changed since previously sent AutoSupport seq( 432 )
+0000008a.0008e6db 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] 0x80719bf90: ERR: Autosupport::Collection: NotifyD collector: [AutoSupport_Custom_Content]    Target: custom_fx Subsys: log_files Type: troubleshooting Minimal: 0 Mode Flags: 2 Outfile: vldb.gz Cmd: Custom function Query: vldb   --  manifest_status = content-empty , error = This file has not changed since previously sent AutoSupport seq( 456 )
+0000008a.0008e6dc 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] 0x80719bf90: ERR: Autosupport::Collection: NotifyD collector: [AutoSupport_Custom_Content]    Target: custom_fx Subsys: log_files Type: troubleshooting Minimal: 0 Mode Flags: 2 Outfile: bcomd.gz Cmd: Custom function Query: bcomd   --  manifest_status = content-empty , error = This file has not changed since previously sent AutoSupport seq( 405 )
+0000008a.0008e6dd 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] 0x80719bf90: ERR: Autosupport::Collection: NotifyD collector: [AutoSupport_Custom_Content]    Target: custom_fx Subsys: log_files Type: troubleshooting Minimal: 0 Mode Flags: 2 Outfile: apache_error.gz Cmd: Custom function Query: apache_error   --  manifest_status = content-empty , error = This file has not changed since previously sent AutoSupport seq( 394 )
+0000008a.0008e6de 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] 0x80719bf90: ERR: Autosupport::Collection: NotifyD collector: [AutoSupport_Custom_Content]    Target: custom_fx Subsys: log_files Type: troubleshooting Minimal: 0 Mode Flags: 2 Outfile: web-diag.gz Cmd: Custom function Query: web-diag   --  manifest_status = content-empty , error = This file has not changed since previously sent AutoSupport seq( 0 )
+0000008a.0008e6df 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] get name 'autosupport.content' privs 'anon,admin,advanced,diag,test'
+0000008a.0008e6e0 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] get name 'autosupport.doit' privs 'anon,admin,advanced,diag,test'
+0000008a.0008e6e1 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] do it get
+0000008a.0008e6e2 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] get name 'autosupport.enable' privs 'anon,admin,advanced,diag,test'
+0000008a.0008e6e3 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] get name 'autosupport.from' privs 'anon,admin,advanced,diag,test'
+0000008a.0008e6e4 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] get name 'autosupport.local_collection' privs 'anon,admin,advanced,diag,test'
+0000008a.0008e6e5 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] get name 'autosupport.mailhost' privs 'anon,admin,advanced,diag,test'
+0000008a.0008e6e6 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] get name 'autosupport.max_http_size' privs 'anon,admin,advanced,diag,test'
+0000008a.0008e6e7 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] get name 'autosupport.max_smtp_size' privs 'anon,admin,advanced,diag,test'
+0000008a.0008e6e8 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] get name 'autosupport.minimal.subject.id' privs 'anon,admin,advanced,diag,test'
+0000008a.0008e6e9 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] get name 'autosupport.nht_data.enable' privs 'anon,admin,advanced,diag,test'
+0000008a.0008e6ea 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] get name 'autosupport.noteto' privs 'anon,admin,advanced,diag,test'
+0000008a.0008e6eb 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] get name 'autosupport.partner.to' privs 'anon,admin,advanced,diag,test'
+0000008a.0008e6ec 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] get name 'autosupport.payload_format' privs 'anon,admin,advanced,diag,test'
+0000008a.0008e6ed 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] get name 'autosupport.performance_data.doit' privs 'anon,admin,advanced,diag,test'
+0000008a.0008e6ee 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] get name 'autosupport.performance_data.enable' privs 'anon,admin,advanced,diag,test'
+0000008a.0008e6ef 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] get name 'autosupport.periodic.tx_window' privs 'anon,admin,advanced,diag,test'
+0000008a.0008e6f0 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] get name 'autosupport.retry.count' privs 'anon,admin,advanced,diag,test'
+0000008a.0008e6f1 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] get name 'autosupport.retry.interval' privs 'anon,admin,advanced,diag,test'
+0000008a.0008e6f2 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] get name 'autosupport.support.enable' privs 'anon,admin,advanced,diag,test'
+0000008a.0008e6f3 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] get name 'autosupport.support.proxy' privs 'anon,admin,advanced,diag,test'
+0000008a.0008e6f4 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] get name 'autosupport.support.put_url' privs 'anon,admin,advanced,diag,test'
+0000008a.0008e6f5 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] get name 'autosupport.support.to' privs 'anon,admin,advanced,diag,test'
+0000008a.0008e6f6 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] get name 'autosupport.support.transport' privs 'anon,admin,advanced,diag,test'
+0000008a.0008e6f7 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] get name 'autosupport.support.url' privs 'anon,admin,advanced,diag,test'
+0000008a.0008e6f8 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] get name 'autosupport.throttle' privs 'anon,admin,advanced,diag,test'
+0000008a.0008e6f9 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] get name 'autosupport.to' privs 'anon,admin,advanced,diag,test'
+0000008a.0008e6fa 0152155f Tue Jan 01 2013 00:13:08 -05:00 [kern_notifyd:info:756] get name 'autosupport.validate_digital_certificate' privs 'anon,admin,advanced,diag,test'
+0000008a.0008e6fb 01521570 Tue Jan 01 2013 00:13:10 -05:00 [kern_notifyd:info:756] Successfully completed collection for autosupport with sequence number 460
+0000008a.0008e6fc 01521570 Tue Jan 01 2013 00:13:10 -05:00 [kern_notifyd:info:756] asup_job::run got '' for ASUP file
+0000008a.0008e6fd 01521570 Tue Jan 01 2013 00:13:10 -05:00 [kern_notifyd:info:756] Beginning to deliver asup with sequence number 459, subject HA Group Notification from stealth13 (PERFORMANCE DATA) INFO
+0000008a.0008e6fe 01521570 Tue Jan 01 2013 00:13:10 -05:00 [kern_notifyd:info:756] Beginning to deliver asup with sequence number 460, subject HA Group Notification from stealth13 (MANAGEMENT_LOG) INFO
+0000008a.0008e71a 01521ef0 Tue Jan 01 2013 00:17:13 -05:00 [kern_notifyd:info:756] Beginning to deliver asup with sequence number 459, subject HA Group Notification from stealth13 (PERFORMANCE DATA) INFO
+0000008a.0008e71b 01521ef0 Tue Jan 01 2013 00:17:13 -05:00 [kern_notifyd:info:756] Beginning to deliver asup with sequence number 460, subject HA Group Notification from stealth13 (MANAGEMENT_LOG) INFO
+0000008a.0008e737 01522851 Tue Jan 01 2013 00:21:13 -05:00 [kern_notifyd:info:756] Beginning to deliver asup with sequence number 459, subject HA Group Notification from stealth13 (PERFORMANCE DATA) INFO
+0000008a.0008e738 01522851 Tue Jan 01 2013 00:21:13 -05:00 [kern_notifyd:info:756] Beginning to deliver asup with sequence number 460, subject HA Group Notification from stealth13 (MANAGEMENT_LOG) INFO
+0000008a.0008e754 015231b2 Tue Jan 01 2013 00:25:13 -05:00 [kern_notifyd:info:756] Beginning to deliver asup with sequence number 459, subject HA Group Notification from stealth13 (PERFORMANCE DATA) INFO
+0000008a.0008e755 015231b2 Tue Jan 01 2013 00:25:13 -05:00 [kern_notifyd:info:756] Beginning to deliver asup with sequence number 460, subject HA Group Notification from stealth13 (MANAGEMENT_LOG) INFO
+0000008a.0008e786 01523b13 Tue Jan 01 2013 00:29:13 -05:00 [kern_notifyd:info:756] Beginning to deliver asup with sequence number 459, subject HA Group Notification from stealth13 (PERFORMANCE DATA) INFO
+0000008a.0008e787 01523b13 Tue Jan 01 2013 00:29:13 -05:00 [kern_notifyd:info:756] Beginning to deliver asup with sequence number 460, subject HA Group Notification from stealth13 (MANAGEMENT_LOG) INFO
+0000008a.0008e79b 01524474 Tue Jan 01 2013 00:33:14 -05:00 [kern_notifyd:info:756] Beginning to deliver asup with sequence number 459, subject HA Group Notification from stealth13 (PERFORMANCE DATA) INFO
+0000008a.0008e79c 01524474 Tue Jan 01 2013 00:33:14 -05:00 [kern_notifyd:info:756] Beginning to deliver asup with sequence number 460, subject HA Group Notification from stealth13 (MANAGEMENT_LOG) INFO
+0000008a.0008e7ad 01524dd6 Tue Jan 01 2013 00:37:14 -05:00 [kern_notifyd:info:756] Beginning to deliver asup with sequence number 459, subject HA Group Notification from stealth13 (PERFORMANCE DATA) INFO
+0000008a.0008e7ae 01524dd6 Tue Jan 01 2013 00:37:14 -05:00 [kern_notifyd:info:756] Beginning to deliver asup with sequence number 460, subject HA Group Notification from stealth13 (MANAGEMENT_LOG) INFO
+0000008a.0008e7c8 01525737 Tue Jan 01 2013 00:41:14 -05:00 [kern_notifyd:info:756] Beginning to deliver asup with sequence number 459, subject HA Group Notification from stealth13 (PERFORMANCE DATA) INFO
+0000008a.0008e7c9 01525737 Tue Jan 01 2013 00:41:14 -05:00 [kern_notifyd:info:756] Beginning to deliver asup with sequence number 460, subject HA Group Notification from stealth13 (MANAGEMENT_LOG) INFO
+0000008a.0008e7f7 01526098 Tue Jan 01 2013 00:45:14 -05:00 [kern_notifyd:info:756] Beginning to deliver asup with sequence number 459, subject HA Group Notification from stealth13 (PERFORMANCE DATA) INFO
+0000008a.0008e7f8 01526098 Tue Jan 01 2013 00:45:14 -05:00 [kern_notifyd:info:756] Successfully delivered noteto asup with sequence: 459
+0000008a.0008e7f9 01526098 Tue Jan 01 2013 00:45:14 -05:00 [kern_notifyd:info:756] 0x80719be00: ERR: Autosupport::Delivery: created compressor with out_filename = /mroot/etc/log/autosupport/201301010000.0.smtp_tmp
+0000008a.0008e7fa 01526098 Tue Jan 01 2013 00:45:14 -05:00 [kern_notifyd:info:756] Successfully delivered smtp asup with sequence: 459
+0000008a.0008e7fb 01526098 Tue Jan 01 2013 00:45:14 -05:00 [kern_notifyd:info:756] 0x80719be00: ERR: Autosupport::Delivery: created compressor with out_filename = /mroot/etc/log/autosupport/201301010000.0.http_tmp
+0000008a.0008e7fd 015260bf Tue Jan 01 2013 00:45:18 -05:00 [kern_notifyd:info:756] Successfully delivered http asup with sequence: 459
+0000008a.0008e7fe 015260bf Tue Jan 01 2013 00:45:18 -05:00 [kern_notifyd:info:756] Beginning to deliver asup with sequence number 460, subject HA Group Notification from stealth13 (MANAGEMENT_LOG) INFO
+0000008a.0008e81b 01526a20 Tue Jan 01 2013 00:49:18 -05:00 [kern_notifyd:info:756] Beginning to deliver asup with sequence number 460, subject HA Group Notification from stealth13 (MANAGEMENT_LOG) INFO
+0000008a.0008e839 01527382 Tue Jan 01 2013 00:53:18 -05:00 [kern_notifyd:info:756] Beginning to deliver asup with sequence number 460, subject HA Group Notification from stealth13 (MANAGEMENT_LOG) INFO
+0000008a.0008e857 01527ce3 Tue Jan 01 2013 00:57:18 -05:00 [kern_notifyd:info:756] Beginning to deliver asup with sequence number 460, subject HA Group Notification from stealth13 (MANAGEMENT_LOG) INFO
+0000008a.0008e875 01528644 Tue Jan 01 2013 01:01:18 -05:00 [kern_notifyd:info:756] Beginning to deliver asup with sequence number 460, subject HA Group Notification from stealth13 (MANAGEMENT_LOG) INFO
+0000008a.0008e8c9 01528fa5 Tue Jan 01 2013 01:05:18 -05:00 [kern_notifyd:info:756] Beginning to deliver asup with sequence number 460, subject HA Group Notification from stealth13 (MANAGEMENT_LOG) INFO
+0000008a.0008e8ca 01528fa5 Tue Jan 01 2013 01:05:18 -05:00 [kern_notifyd:info:756] Successfully delivered noteto asup with sequence: 460
+0000008a.0008e8cb 01528fa5 Tue Jan 01 2013 01:05:18 -05:00 [kern_notifyd:info:756] 0x80719be00: ERR: Autosupport::Delivery: created compressor with out_filename = /mroot/etc/log/autosupport/201301010013.0.smtp_tmp
+0000008a.0008e8cc 01528fa5 Tue Jan 01 2013 01:05:18 -05:00 [kern_notifyd:info:756] Successfully delivered smtp asup with sequence: 460
+0000008a.0008e8cd 01528fa5 Tue Jan 01 2013 01:05:18 -05:00 [kern_notifyd:info:756] 0x80719be00: ERR: Autosupport::Delivery: created compressor with out_filename = /mroot/etc/log/autosupport/201301010013.0.http_tmp
+0000008a.0008e8ce 01528fc4 Tue Jan 01 2013 01:05:22 -05:00 [kern_notifyd:info:756] Successfully delivered http asup with sequence: 460
+0000008a.00091708 015f2592 Wed Jan 02 2013 00:00:01 -05:00 [kern_notifyd:info:756] ems receiver for callhome: callhome.performance.data
+0000008a.00091709 015f2592 Wed Jan 02 2013 00:00:01 -05:00 [kern_notifyd:info:756] read callhome event: callhome.performance.data
+0000008a.0009170b 015f2592 Wed Jan 02 2013 00:00:01 -05:00 [kern_notifyd:info:756] first level screening for callhome event: callhome.performance.data (name callhome.performance.data, src kernel)
+0000008a.0009170c 015f2592 Wed Jan 02 2013 00:00:01 -05:00 [kern_notifyd:info:756] ems_asup::handle for event callhome.performance.data (68768) t=2301274
+0000008a.0009170d 015f2592 Wed Jan 02 2013 00:00:01 -05:00 [kern_notifyd:info:756] ems_asup::handle job for event callhome.performance.data (68768) worked t=2301274
+0000008a.0009170e 015f2592 Wed Jan 02 2013 00:00:01 -05:00 [kern_notifyd:info:756] asup_job::run started t=2301274
+0000008a.0009170f 015f2592 Wed Jan 02 2013 00:00:01 -05:00 [kern_notifyd:info:756] asup_job::run is triggered by event callhome.performance.data (68768) t=2301274
+0000008a.00091710 015f2592 Wed Jan 02 2013 00:00:01 -05:00 [kern_notifyd:info:756] asup_job::run calling smtp_file for 'PERFORMANCE DATA'
+0000008a.00091711 015f2592 Wed Jan 02 2013 00:00:01 -05:00 [kern_notifyd:info:756] Creating autosupport with sequence number 461, event callhome.performance.data
+0000008a.00091712 015f2592 Wed Jan 02 2013 00:00:01 -05:00 [kern_notifyd:info:756] Beginning collection for autosupport with seq num 461
+0000008a.00091716 015f25ab Wed Jan 02 2013 00:00:03 -05:00 [kern_notifyd:info:756] get name 'autosupport.content' privs 'anon,admin,advanced,diag,test'
+0000008a.00091717 015f25ab Wed Jan 02 2013 00:00:03 -05:00 [kern_notifyd:info:756] get name 'autosupport.doit' privs 'anon,admin,advanced,diag,test'
+0000008a.00091718 015f25ab Wed Jan 02 2013 00:00:03 -05:00 [kern_notifyd:info:756] do it get
+0000008a.00091719 015f25ab Wed Jan 02 2013 00:00:03 -05:00 [kern_notifyd:info:756] get name 'autosupport.enable' privs 'anon,admin,advanced,diag,test'
+0000008a.0009171a 015f25ab Wed Jan 02 2013 00:00:03 -05:00 [kern_notifyd:info:756] get name 'autosupport.from' privs 'anon,admin,advanced,diag,test'
+0000008a.0009171b 015f25ab Wed Jan 02 2013 00:00:03 -05:00 [kern_notifyd:info:756] get name 'autosupport.local_collection' privs 'anon,admin,advanced,diag,test'
+0000008a.0009171c 015f25ac Wed Jan 02 2013 00:00:03 -05:00 [kern_notifyd:info:756] get name 'autosupport.mailhost' privs 'anon,admin,advanced,diag,test'
+0000008a.0009171d 015f25ac Wed Jan 02 2013 00:00:03 -05:00 [kern_notifyd:info:756] get name 'autosupport.max_http_size' privs 'anon,admin,advanced,diag,test'
+0000008a.0009171e 015f25ac Wed Jan 02 2013 00:00:03 -05:00 [kern_notifyd:info:756] get name 'autosupport.max_smtp_size' privs 'anon,admin,advanced,diag,test'
+0000008a.0009171f 015f25ac Wed Jan 02 2013 00:00:03 -05:00 [kern_notifyd:info:756] get name 'autosupport.minimal.subject.id' privs 'anon,admin,advanced,diag,test'
+0000008a.00091720 015f25ac Wed Jan 02 2013 00:00:03 -05:00 [kern_notifyd:info:756] get name 'autosupport.nht_data.enable' privs 'anon,admin,advanced,diag,test'
+0000008a.00091721 015f25ac Wed Jan 02 2013 00:00:03 -05:00 [kern_notifyd:info:756] get name 'autosupport.noteto' privs 'anon,admin,advanced,diag,test'
+0000008a.0009172a 015f25c2 Wed Jan 02 2013 00:00:06 -05:00 [kern_notifyd:info:756] get name 'autosupport.partner.to' privs 'anon,admin,advanced,diag,test'
+0000008a.0009172b 015f25c2 Wed Jan 02 2013 00:00:06 -05:00 [kern_notifyd:info:756] get name 'autosupport.payload_format' privs 'anon,admin,advanced,diag,test'
+0000008a.0009172c 015f25c2 Wed Jan 02 2013 00:00:06 -05:00 [kern_notifyd:info:756] get name 'autosupport.performance_data.doit' privs 'anon,admin,advanced,diag,test'
+0000008a.0009172d 015f25c2 Wed Jan 02 2013 00:00:06 -05:00 [kern_notifyd:info:756] get name 'autosupport.performance_data.enable' privs 'anon,admin,advanced,diag,test'
+0000008a.0009172e 015f25c2 Wed Jan 02 2013 00:00:06 -05:00 [kern_notifyd:info:756] get name 'autosupport.periodic.tx_window' privs 'anon,admin,advanced,diag,test'
+0000008a.0009172f 015f25c2 Wed Jan 02 2013 00:00:06 -05:00 [kern_notifyd:info:756] get name 'autosupport.retry.count' privs 'anon,admin,advanced,diag,test'
+0000008a.00091730 015f25c2 Wed Jan 02 2013 00:00:06 -05:00 [kern_notifyd:info:756] get name 'autosupport.retry.interval' privs 'anon,admin,advanced,diag,test'
+0000008a.00091731 015f25c2 Wed Jan 02 2013 00:00:06 -05:00 [kern_notifyd:info:756] get name 'autosupport.support.enable' privs 'anon,admin,advanced,diag,test'
+0000008a.00091732 015f25c2 Wed Jan 02 2013 00:00:06 -05:00 [kern_notifyd:info:756] get name 'autosupport.support.proxy' privs 'anon,admin,advanced,diag,test'
+0000008a.00091733 015f25c2 Wed Jan 02 2013 00:00:06 -05:00 [kern_notifyd:info:756] get name 'autosupport.support.put_url' privs 'anon,admin,advanced,diag,test'
+0000008a.00091734 015f25c2 Wed Jan 02 2013 00:00:06 -05:00 [kern_notifyd:info:756] get name 'autosupport.support.to' privs 'anon,admin,advanced,diag,test'
+0000008a.00091735 015f25c2 Wed Jan 02 2013 00:00:06 -05:00 [kern_notifyd:info:756] get name 'autosupport.support.transport' privs 'anon,admin,advanced,diag,test'
+0000008a.00091736 015f25c2 Wed Jan 02 2013 00:00:06 -05:00 [kern_notifyd:info:756] get name 'autosupport.support.url' privs 'anon,admin,advanced,diag,test'
+0000008a.00091737 015f25c2 Wed Jan 02 2013 00:00:06 -05:00 [kern_notifyd:info:756] get name 'autosupport.throttle' privs 'anon,admin,advanced,diag,test'
+0000008a.00091738 015f25c2 Wed Jan 02 2013 00:00:06 -05:00 [kern_notifyd:info:756] get name 'autosupport.to' privs 'anon,admin,advanced,diag,test'
+0000008a.00091739 015f25c2 Wed Jan 02 2013 00:00:06 -05:00 [kern_notifyd:info:756] get name 'autosupport.validate_digital_certificate' privs 'anon,admin,advanced,diag,test'
+0000008a.0009179f 015f2635 Wed Jan 02 2013 00:00:18 -05:00 [kern_notifyd:info:756] Successfully completed collection for autosupport with sequence number 461
+0000008a.000917a0 015f2635 Wed Jan 02 2013 00:00:18 -05:00 [kern_notifyd:info:756] asup_job::run got '' for ASUP file
+0000008a.000917a1 015f2635 Wed Jan 02 2013 00:00:18 -05:00 [kern_notifyd:info:756] Beginning to deliver asup with sequence number 461, subject HA Group Notification from stealth13 (PERFORMANCE DATA) INFO
+0000008a.000917b8 015f2fb4 Wed Jan 02 2013 00:04:21 -05:00 [kern_notifyd:info:756] Beginning to deliver asup with sequence number 461, subject HA Group Notification from stealth13 (PERFORMANCE DATA) INFO
+0000008a.0009181f 015f3915 Wed Jan 02 2013 00:08:21 -05:00 [kern_notifyd:info:756] Beginning to deliver asup with sequence number 461, subject HA Group Notification from stealth13 (PERFORMANCE DATA) INFO
+0000008a.0009186d 015f4276 Wed Jan 02 2013 00:12:21 -05:00 [kern_notifyd:info:756] Beginning to deliver asup with sequence number 461, subject HA Group Notification from stealth13 (PERFORMANCE DATA) INFO
+0000008a.0009189b 015f4bd7 Wed Jan 02 2013 00:16:21 -05:00 [kern_notifyd:info:756] Beginning to deliver asup with sequence number 461, subject HA Group Notification from stealth13 (PERFORMANCE DATA) INFO
+0000008a.000918c6 015f5538 Wed Jan 02 2013 00:20:21 -05:00 [kern_notifyd:info:756] Beginning to deliver asup with sequence number 461, subject HA Group Notification from stealth13 (PERFORMANCE DATA) INFO
+0000008a.000918da 015f5e9a Wed Jan 02 2013 00:24:21 -05:00 [kern_notifyd:info:756] Beginning to deliver asup with sequence number 461, subject HA Group Notification from stealth13 (PERFORMANCE DATA) INFO
+0000008a.00091923 015f67fb Wed Jan 02 2013 00:28:22 -05:00 [kern_notifyd:info:756] Beginning to deliver asup with sequence number 461, subject HA Group Notification from stealth13 (PERFORMANCE DATA) INFO
+0000008a.00091924 015f67fb Wed Jan 02 2013 00:28:22 -05:00 [kern_notifyd:info:756] Successfully delivered noteto asup with sequence: 461
+0000008a.00091925 015f67fb Wed Jan 02 2013 00:28:22 -05:00 [kern_notifyd:info:756] 0x80719be00: ERR: Autosupport::Delivery: created compressor with out_filename = /mroot/etc/log/autosupport/201301020000.0.smtp_tmp
+0000008a.00091926 015f67fb Wed Jan 02 2013 00:28:22 -05:00 [kern_notifyd:info:756] Successfully delivered smtp asup with sequence: 461
+0000008a.00091927 015f67fb Wed Jan 02 2013 00:28:22 -05:00 [kern_notifyd:info:756] 0x80719be00: ERR: Autosupport::Delivery: created compressor with out_filename = /mroot/etc/log/autosupport/201301020000.0.http_tmp
+0000008a.00091928 015f6822 Wed Jan 02 2013 00:28:25 -05:00 [kern_notifyd:info:756] Successfully delivered http asup with sequence: 461

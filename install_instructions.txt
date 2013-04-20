@@ -1,0 +1,16 @@
+1. 
+Compile parse_2.cpp in program_files
+
+g++ parse_2.cpp -o parse_2 -lpthread
+
+2. 
+run userdatabase.sql script in mysql
+
+3. 
+Set path variables in paths.php, 
+
+$program_files_path is the location of program files
+
+$user_data_path is the location where user data will be stored
+
+4.Login to site under username = "admin", password = "password", to change default admin settings
